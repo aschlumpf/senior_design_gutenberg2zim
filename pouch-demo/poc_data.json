@@ -1,0 +1,4138 @@
+{
+    "creator": {
+        "50088": {
+            "author": {
+                "agent_name": "Bacheller, Irving",
+                "url": "http://www.gutenberg.org/2009/agents/4001",
+                "wikipedia": "http://en.wikipedia.org/wiki/Irving_Bacheller",
+                "gutenberg_agent_id": "4001",
+                "birthdate": 1859,
+                "alias": "Bacheller, Addison Irving",
+                "deathdate": 1950
+            }
+        },
+        "3480": {
+            "editor": {
+                "agent_name": "Morley, Henry",
+                "url": "http://www.gutenberg.org/2009/agents/1355",
+                "wikipedia": "http://en.wikipedia.org/wiki/Henry_Morley",
+                "gutenberg_agent_id": "1355",
+                "birthdate": 1822,
+                "deathdate": 1894
+            },
+            "author": {
+                "agent_name": "Knowles, James Sheridan",
+                "url": "http://www.gutenberg.org/2009/agents/1210",
+                "wikipedia": "http://en.wikipedia.org/wiki/James_Sheridan_Knowles",
+                "gutenberg_agent_id": "1210",
+                "birthdate": 1784,
+                "deathdate": 1862,
+                "aliases": [
+                    "Knowles, J. Sheridan (James Sheridan)",
+                    "Knowles, J. S. (James Sheridan)",
+                    "Knowles, Sheridan"
+                ]
+            }
+        },
+        "11542": {
+            "author": {
+                "url": "http://www.gutenberg.org/2009/agents/116",
+                "alias": "Verschillende",
+                "gutenberg_agent_id": "116",
+                "agent_name": "Various"
+            }
+        },
+        "11543": {
+            "author": {
+                "url": "http://www.gutenberg.org/2009/agents/116",
+                "agent_name": "Various",
+                "gutenberg_agent_id": "116",
+                "alias": "Verschillende"
+            }
+        },
+        "11540": {
+            "author": {
+                "url": "http://www.gutenberg.org/2009/agents/116",
+                "agent_name": "Various",
+                "gutenberg_agent_id": "116",
+                "alias": "Verschillende"
+            }
+        },
+        "11541": {
+            "author": {
+                "url": "http://www.gutenberg.org/2009/agents/116",
+                "agent_name": "Various",
+                "gutenberg_agent_id": "116",
+                "alias": "Verschillende"
+            }
+        },
+        "11546": {
+            "author": {
+                "agent_name": "Stillman, William James",
+                "url": "http://www.gutenberg.org/2009/agents/4020",
+                "wikipedia": "http://en.wikipedia.org/wiki/William_James_Stillman",
+                "gutenberg_agent_id": "4020",
+                "birthdate": 1828,
+                "alias": "Stillman, W. J. (William James)",
+                "deathdate": 1901
+            }
+        },
+        "11547": {
+            "author": {
+                "agent_name": "Grinnell, George Bird",
+                "url": "http://www.gutenberg.org/2009/agents/4021",
+                "wikipedia": "http://en.wikipedia.org/wiki/George_Bird_Grinnell",
+                "gutenberg_agent_id": "4021",
+                "birthdate": 1849,
+                "deathdate": 1938
+            }
+        },
+        "11544": {
+            "author": {
+                "url": "http://www.gutenberg.org/2009/agents/3906",
+                "agent_name": "United States. Work Projects Administration",
+                "gutenberg_agent_id": "3906",
+                "alias": "Administration, Work Projects"
+            }
+        },
+        "11545": {
+            "author": {
+                "url": "http://www.gutenberg.org/2009/agents/4019",
+                "agent_name": "Priest, William",
+                "gutenberg_agent_id": "4019"
+            }
+        },
+        "11548": {
+            "editor": {
+                "agent_name": "Tarbell, Ida M. (Ida Minerva)",
+                "url": "http://www.gutenberg.org/2009/agents/4022",
+                "wikipedia": "http://en.wikipedia.org/wiki/Ida_M._Tarbell",
+                "gutenberg_agent_id": "4022",
+                "birthdate": 1857,
+                "alias": "Tarbell, Ida Minerva",
+                "deathdate": 1944
+            }
+        },
+        "11549": {
+            "author": {
+                "agent_name": "Prentiss, George Lewis",
+                "url": "http://www.gutenberg.org/2009/agents/4023",
+                "gutenberg_agent_id": "4023",
+                "birthdate": 1816,
+                "alias": "Prentiss, G. L. (George Lewis)",
+                "deathdate": 1903
+            }
+        },
+        "5988": {
+            "author": {
+                "agent_name": "Morris, William",
+                "url": "http://www.gutenberg.org/2009/agents/107",
+                "wikipedia": "http://en.wikipedia.org/wiki/William_Morris",
+                "gutenberg_agent_id": "107",
+                "birthdate": 1834,
+                "alias": "Morris, William M.",
+                "deathdate": 1896
+            }
+        },
+        "5989": {
+            "author": {
+                "agent_name": "Garis, Howard Roger",
+                "url": "http://www.gutenberg.org/2009/agents/808",
+                "wikipedia": [
+                    "http://en.wikipedia.org/wiki/Howard_R._Garis",
+                    "http://www.gutenberg.org/ebooks/author/32638"
+                ],
+                "gutenberg_agent_id": "808",
+                "birthdate": 1873,
+                "deathdate": 1962,
+                "aliases": [
+                    "Davidson, Marion",
+                    "Garis, Howard R."
+                ]
+            }
+        },
+        "19399": {
+            "editor": {
+                "agent_name": "Dodge, Mary Mapes",
+                "url": "http://www.gutenberg.org/2009/agents/402",
+                "wikipedia": "http://en.wikipedia.org/wiki/Mary_Mapes_Dodge",
+                "gutenberg_agent_id": "402",
+                "birthdate": 1830,
+                "alias": "Dodge, M. E. (Mary Elizabeth)",
+                "deathdate": 1905
+            },
+            "author": {
+                "url": "http://www.gutenberg.org/2009/agents/116",
+                "agent_name": "Various",
+                "gutenberg_agent_id": "116",
+                "alias": "Verschillende"
+            }
+        },
+        "51541": {
+            "author": {
+                "agent_name": "Brown, Alice",
+                "url": "http://www.gutenberg.org/2009/agents/1688",
+                "wikipedia": "http://en.wikipedia.org/wiki/Alice_Brown_%28writer%29",
+                "gutenberg_agent_id": "1688",
+                "birthdate": 1857,
+                "deathdate": 1948
+            }
+        },
+        "5982": {
+            "author": {
+                "agent_name": "Eliot, T. S. (Thomas Stearns)",
+                "url": "http://www.gutenberg.org/2009/agents/599",
+                "wikipedia": "http://en.wikipedia.org/wiki/T._S._Eliot",
+                "gutenberg_agent_id": "599",
+                "birthdate": 1888,
+                "alias": "Eliot, Thomas Stearns",
+                "deathdate": 1965
+            }
+        },
+        "19396": {
+            "author": {
+                "agent_name": "Masefield, John",
+                "url": "http://www.gutenberg.org/2009/agents/582",
+                "wikipedia": "http://en.wikipedia.org/wiki/John_Masefield",
+                "gutenberg_agent_id": "582",
+                "birthdate": 1878,
+                "deathdate": 1967
+            }
+        },
+        "5980": {
+            "author": {
+                "agent_name": "Lincoln, Joseph Crosby",
+                "url": "http://www.gutenberg.org/2009/agents/810",
+                "wikipedia": "https://en.wikipedia.org/wiki/Joseph_C._Lincoln",
+                "gutenberg_agent_id": "810",
+                "birthdate": 1870,
+                "alias": "Lincoln, Joseph C.",
+                "deathdate": 1944
+            }
+        },
+        "5981": {
+            "author": {
+                "url": "http://www.gutenberg.org/2009/agents/1844",
+                "agent_name": "Durston, George",
+                "wikipedia": "https://en.wikipedia.org/wiki/Colonel_George_Durston",
+                "gutenberg_agent_id": "1844"
+            }
+        },
+        "5986": {
+            "author": {
+                "agent_name": "White, William Hale",
+                "url": "http://www.gutenberg.org/2009/agents/1904",
+                "wikipedia": "http://en.wikipedia.org/wiki/William_Hale_White",
+                "gutenberg_agent_id": "1904",
+                "birthdate": 1831,
+                "deathdate": 1913,
+                "aliases": [
+                    "Rutherford, Mark",
+                    "Shapcott, Reuben",
+                    "White, W. Hale (William Hale)"
+                ]
+            }
+        },
+        "5987": {
+            "author": {
+                "agent_name": "Merriman, Henry Seton",
+                "url": "http://www.gutenberg.org/2009/agents/1312",
+                "wikipedia": "http://en.wikipedia.org/wiki/Hugh_Stowell_Scott",
+                "gutenberg_agent_id": "1312",
+                "birthdate": 1862,
+                "deathdate": 1903,
+                "aliases": [
+                    "Scott, Hugh Stowell",
+                    "Merriman, H. Seton (Henry Seton)"
+                ]
+            }
+        },
+        "5984": {
+            "author": {
+                "url": "http://www.gutenberg.org/2009/agents/216",
+                "agent_name": "Anonymous",
+                "wikipedia": [
+                    "http://www.gutenberg.org/ebooks/author/49",
+                    "http://en.wikipedia.org/wiki/Anonymity"
+                ],
+                "gutenberg_agent_id": "216",
+                "alias": "Anonyme"
+            }
+        },
+        "5985": {
+            "author": {
+                "agent_name": "Voltaire",
+                "url": "http://www.gutenberg.org/2009/agents/913",
+                "wikipedia": [
+                    "http://fr.wikipedia.org/wiki/Voltaire",
+                    "http://en.wikipedia.org/wiki/Voltaire"
+                ],
+                "gutenberg_agent_id": "913",
+                "birthdate": 1694,
+                "deathdate": 1778,
+                "aliases": [
+                    "Arouet, Francois Marie",
+                    "Arouet, Fran\u00e7ois Marie"
+                ]
+            }
+        },
+        "53900": {
+            "author": {
+                "agent_name": "Cannon, Richard",
+                "url": "http://www.gutenberg.org/2009/agents/45414",
+                "wikipedia": "https://en.wikipedia.org/wiki/Richard_Cannon",
+                "gutenberg_agent_id": "45414",
+                "birthdate": 1779,
+                "deathdate": 1865
+            }
+        },
+        "53901": {
+            "author": {
+                "agent_name": "Guernsey, Clara F. (Clara Florida)",
+                "url": "http://www.gutenberg.org/2009/agents/6311",
+                "gutenberg_agent_id": "6311",
+                "birthdate": 1836,
+                "alias": "Guernsey, Clara Florida",
+                "deathdate": 1893
+            }
+        },
+        "28567": {
+            "author": {
+                "url": "http://www.gutenberg.org/2009/agents/2175",
+                "agent_name": "Turley, Charles",
+                "deathdate": 1940,
+                "gutenberg_agent_id": "2175",
+                "birthdate": 1868
+            }
+        },
+        "57483": {
+            "author": {
+                "agent_name": "R\u00e9veil, Etienne Achille",
+                "url": "http://www.gutenberg.org/2009/agents/49409",
+                "gutenberg_agent_id": "49409",
+                "birthdate": 1800,
+                "deathdate": 1851,
+                "aliases": [
+                    "Reveil, Etienne Achille",
+                    "R\u00e9veil, Achille",
+                    "Reveil, Achille"
+                ]
+            }
+        },
+        "57482": {
+            "author": {
+                "url": "http://www.gutenberg.org/2009/agents/49",
+                "agent_name": "Unknown",
+                "wikipedia": "http://www.gutenberg.org/ebooks/author/216",
+                "gutenberg_agent_id": "49"
+            }
+        },
+        "57485": {
+            "editor": {
+                "url": "http://www.gutenberg.org/2009/agents/1961",
+                "agent_name": "Widger, David",
+                "gutenberg_agent_id": "1961",
+                "birthdate": 1932
+            },
+            "author": {
+                "agent_name": "Paterson, A. B. (Andrew Barton)",
+                "url": "http://www.gutenberg.org/2009/agents/118",
+                "wikipedia": "http://en.wikipedia.org/wiki/Banjo_Paterson",
+                "gutenberg_agent_id": "118",
+                "birthdate": 1864,
+                "deathdate": 1941,
+                "aliases": [
+                    "Paterson, Andrew Barton",
+                    "Paterson, Banjo"
+                ]
+            }
+        },
+        "57484": {
+            "author": {
+                "url": "http://www.gutenberg.org/2009/agents/49412",
+                "alias": "Lyth\u200f",
+                "gutenberg_agent_id": "49412",
+                "agent_name": "Lambert, Kathleen"
+            }
+        },
+        "36709": {
+            "author": {
+                "agent_name": "Hillern, Wilhelmine von",
+                "url": "http://www.gutenberg.org/2009/agents/24819",
+                "gutenberg_agent_id": "24819",
+                "birthdate": 1836,
+                "deathdate": 1916,
+                "aliases": [
+                    "Birch, Wilhelmine",
+                    "Von Hillern, Wilhelmine"
+                ]
+            }
+        },
+        "46139": {
+            "author": {
+                "agent_name": "Marcosson, Isaac Frederick",
+                "url": "http://www.gutenberg.org/2009/agents/7988",
+                "wikipedia": "http://en.wikipedia.org/wiki/Isaac_Frederick_Marcosson",
+                "gutenberg_agent_id": "7988",
+                "birthdate": 1876,
+                "deathdate": 1961
+            }
+        },
+        "46138": {
+            "author": {
+                "agent_name": "Buckstone, John Baldwin",
+                "url": "http://www.gutenberg.org/2009/agents/43625",
+                "gutenberg_agent_id": "43625",
+                "birthdate": 1802,
+                "alias": "Buckstone, J. B. (John Baldwin)",
+                "deathdate": 1879
+            }
+        },
+        "46137": {
+            "author": {
+                "url": "http://www.gutenberg.org/2009/agents/116",
+                "agent_name": "Various",
+                "gutenberg_agent_id": "116",
+                "alias": "Verschillende"
+            }
+        },
+        "46136": {
+            "author": {
+                "agent_name": "Rhead, G. Woolliscroft (George Woolliscroft)",
+                "url": "http://www.gutenberg.org/2009/agents/44056",
+                "gutenberg_agent_id": "44056",
+                "birthdate": 1854,
+                "alias": "Rhead, George Woolliscroft",
+                "deathdate": 1920
+            }
+        },
+        "46135": {
+            "author": {
+                "agent_name": "Hesse, Hermann",
+                "url": "http://www.gutenberg.org/2009/agents/941",
+                "wikipedia": [
+                    "http://en.wikipedia.org/wiki/Hermann_Hesse",
+                    "https://de.wikipedia.org/wiki/Hermann_Hesse"
+                ],
+                "gutenberg_agent_id": "941",
+                "birthdate": 1877,
+                "deathdate": 1962,
+                "aliases": [
+                    "Lauscher, Hermann",
+                    "Sinclair, Emil"
+                ]
+            }
+        },
+        "36708": {
+            "author": {
+                "agent_name": "Th\u00e9r\u00e8se, de Lisieux, Saint",
+                "url": "http://www.gutenberg.org/2009/agents/6923",
+                "wikipedia": "http://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_de_Lisieux",
+                "gutenberg_agent_id": "6923",
+                "birthdate": 1873,
+                "deathdate": 1897,
+                "aliases": [
+                    "Martin, Marie Fran\u00e7oise Th\u00e9r\u00e8se, Saint",
+                    "Martin, Marie Francoise Therese, Saint",
+                    "Martin, Teresa, Saint"
+                ]
+            }
+        },
+        "46133": {
+            "author": {
+                "agent_name": "Scott, Walter",
+                "url": "http://www.gutenberg.org/2009/agents/59",
+                "wikipedia": "http://en.wikipedia.org/wiki/Walter_Scott",
+                "gutenberg_agent_id": "59",
+                "birthdate": 1771,
+                "deathdate": 1832,
+                "aliases": [
+                    "Scott, Sir Walter",
+                    "Templeton, Laurence",
+                    "Malagrowther, Malachi",
+                    "Cleishbotham, Jedediah"
+                ]
+            }
+        },
+        "46132": {
+            "author": {
+                "agent_name": "Edgar, John G. (John George)",
+                "url": "http://www.gutenberg.org/2009/agents/32162",
+                "gutenberg_agent_id": "32162",
+                "birthdate": 1834,
+                "deathdate": 1864,
+                "aliases": [
+                    "Edgar, J.G.",
+                    "Edgar, J. G. (John George)",
+                    "Edgar, John George"
+                ]
+            }
+        },
+        "46131": {
+            "author": {
+                "url": "http://www.gutenberg.org/2009/agents/31990",
+                "agent_name": "Patterson, John",
+                "gutenberg_agent_id": "31990"
+            }
+        },
+        "46130": {
+            "author": {
+                "url": "http://www.gutenberg.org/2009/agents/4189",
+                "agent_name": "Fowler, Thomas",
+                "deathdate": 1904,
+                "gutenberg_agent_id": "4189",
+                "birthdate": 1832
+            }
+        },
+        "36707": {
+            "author": {
+                "agent_name": "Barbauld, Mrs. (Anna Letitia)",
+                "url": "http://www.gutenberg.org/2009/agents/5368",
+                "wikipedia": "http://en.wikipedia.org/wiki/Anna_Laetitia_Barbauld",
+                "gutenberg_agent_id": "5368",
+                "birthdate": 1743,
+                "deathdate": 1825,
+                "aliases": [
+                    "Aikin, Anna Laetitia",
+                    "Barbauld, Anna Laetitia",
+                    "Aikin, Anna L\u00e6titia",
+                    "Barbauld, Anna Letitia",
+                    "Barbauld, Anna L\u00e6titia",
+                    "Barbauld, A. L. (Anna Letitia)"
+                ]
+            }
+        },
+        "36706": {
+            "author": {
+                "url": "http://www.gutenberg.org/2009/agents/116",
+                "agent_name": "Various",
+                "gutenberg_agent_id": "116",
+                "alias": "Verschillende"
+            }
+        },
+        "28561": {
+            "author": {
+                "agent_name": "Abbott, Jacob",
+                "url": "http://www.gutenberg.org/2009/agents/2136",
+                "wikipedia": "http://en.wikipedia.org/wiki/Jacob_Abbott",
+                "gutenberg_agent_id": "2136",
+                "birthdate": 1803,
+                "deathdate": 1879,
+                "aliases": [
+                    "Marianne",
+                    "Erodore"
+                ]
+            }
+        },
+        "19973": {
+            "editor": {
+                "agent_name": "Edwards, Owen Morgan, Sir",
+                "url": "http://www.gutenberg.org/2009/agents/1144",
+                "wikipedia": "http://en.wikipedia.org/wiki/Owen_Morgan_Edwards",
+                "gutenberg_agent_id": "1144",
+                "birthdate": 1858,
+                "alias": "Edwards, O. M., Sir",
+                "deathdate": 1920
+            }
+        },
+        "19972": {
+            "author": {
+                "agent_name": "S\u00e9gur, Philippe-Paul, comte de",
+                "url": "http://www.gutenberg.org/2009/agents/7815",
+                "wikipedia": "http://fr.wikipedia.org/wiki/Philippe_Paul_de_S%C3%A9gur",
+                "gutenberg_agent_id": "7815",
+                "birthdate": 1780,
+                "alias": "Segur, Philippe-Paul, comte de",
+                "deathdate": 1873
+            }
+        },
+        "272": {
+            "author": {
+                "agent_name": "Luther, Martin",
+                "url": "http://www.gutenberg.org/2009/agents/155",
+                "wikipedia": "http://en.wikipedia.org/wiki/Martin_Luther",
+                "gutenberg_agent_id": "155",
+                "birthdate": 1483,
+                "deathdate": 1546
+            }
+        },
+        "273": {
+            "author": {
+                "agent_name": "Luther, Martin",
+                "url": "http://www.gutenberg.org/2009/agents/155",
+                "wikipedia": "http://en.wikipedia.org/wiki/Martin_Luther",
+                "gutenberg_agent_id": "155",
+                "birthdate": 1483,
+                "deathdate": 1546
+            }
+        },
+        "274": {
+            "author": {
+                "agent_name": "Luther, Martin",
+                "url": "http://www.gutenberg.org/2009/agents/155",
+                "wikipedia": "http://en.wikipedia.org/wiki/Martin_Luther",
+                "gutenberg_agent_id": "155",
+                "birthdate": 1483,
+                "deathdate": 1546
+            }
+        },
+        "275": {
+            "author": {
+                "agent_name": "Melanchthon, Philipp",
+                "url": "http://www.gutenberg.org/2009/agents/156",
+                "wikipedia": "http://en.wikipedia.org/wiki/Philipp_Melanchthon",
+                "gutenberg_agent_id": "156",
+                "birthdate": 1497,
+                "deathdate": 1560,
+                "aliases": [
+                    "Faventinus, Didymus",
+                    "Schwarzerd, Philipp"
+                ]
+            }
+        },
+        "19975": {
+            "author": {
+                "agent_name": "Ward, John Montgomery",
+                "url": "http://www.gutenberg.org/2009/agents/9003",
+                "wikipedia": "http://en.wikipedia.org/wiki/John_Montgomery_Ward",
+                "gutenberg_agent_id": "9003",
+                "birthdate": 1860,
+                "deathdate": 1925
+            }
+        },
+        "19974": {
+            "author": {
+                "agent_name": "Nunes, Cl\u00e1udio Jos\u00e9",
+                "url": "http://www.gutenberg.org/2009/agents/9002",
+                "gutenberg_agent_id": "9002",
+                "birthdate": 1831,
+                "alias": "Nunes, Claudio Jose",
+                "deathdate": 1875
+            }
+        },
+        "16705": {
+            "author": {
+                "agent_name": "Lucas, E. V. (Edward Verrall)",
+                "url": "http://www.gutenberg.org/2009/agents/818",
+                "wikipedia": "http://en.wikipedia.org/wiki/E._V._Lucas",
+                "gutenberg_agent_id": "818",
+                "birthdate": 1868,
+                "deathdate": 1938,
+                "aliases": [
+                    "Lucas, E.V.",
+                    "Lucas, Edward Verrall"
+                ]
+            }
+        },
+        "16704": {
+            "author": {
+                "agent_name": "Forbes, George",
+                "url": "http://www.gutenberg.org/2009/agents/2679",
+                "wikipedia": "https://en.wikipedia.org/wiki/George_Forbes_(scientist)",
+                "gutenberg_agent_id": "2679",
+                "birthdate": 1849,
+                "deathdate": 1936
+            }
+        },
+        "19979": {
+            "author": {
+                "url": "http://www.gutenberg.org/2009/agents/9006",
+                "agent_name": "Ashton, John",
+                "deathdate": 1911,
+                "gutenberg_agent_id": "9006",
+                "birthdate": 1834
+            }
+        },
+        "16706": {
+            "authors": [
+                {
+                    "agent_name": "Rand, Edward Kennard",
+                    "url": "http://www.gutenberg.org/2009/agents/6882",
+                    "gutenberg_agent_id": "6882",
+                    "birthdate": 1871,
+                    "alias": "Rand, E. K. (Edward Kennard)",
+                    "deathdate": 1945
+                },
+                {
+                    "agent_name": "Lowe, E. A. (Elias Avery)",
+                    "url": "http://www.gutenberg.org/2009/agents/6881",
+                    "gutenberg_agent_id": "6881",
+                    "birthdate": 1879,
+                    "alias": "Lowe, Elias Avery",
+                    "deathdate": 1969
+                }
+            ]
+        },
+        "16701": {
+            "editor": {
+                "url": "http://www.gutenberg.org/2009/agents/6875",
+                "agent_name": "Huizinga, S. P.",
+                "gutenberg_agent_id": "6875"
+            },
+            "author": {
+                "agent_name": "Brehm, Alfred Edmund",
+                "url": "http://www.gutenberg.org/2009/agents/6874",
+                "wikipedia": [
+                    "https://nl.wikipedia.org/wiki/Alfred_Brehm",
+                    "https://en.wikipedia.org/wiki/Alfred_Brehm"
+                ],
+                "gutenberg_agent_id": "6874",
+                "birthdate": 1829,
+                "alias": "Brehm, A. E. (Alfred Edmund)",
+                "deathdate": 1884
+            }
+        },
+        "16700": {
+            "author": {
+                "agent_name": "Killen, W. D. (William Dool)",
+                "url": "http://www.gutenberg.org/2009/agents/2925",
+                "wikipedia": "https://en.wikipedia.org/wiki/William_Dool_Killen",
+                "gutenberg_agent_id": "2925",
+                "birthdate": 1806,
+                "alias": "Killen, William D. (William Dool)",
+                "deathdate": 1902
+            }
+        },
+        "16703": {
+            "authors": [
+                {
+                    "url": "http://www.gutenberg.org/2009/agents/6877",
+                    "agent_name": "Moore, Arthur",
+                    "deathdate": 1952,
+                    "gutenberg_agent_id": "6877",
+                    "birthdate": 1866
+                },
+                {
+                    "agent_name": "Dowson, Ernest Christopher",
+                    "url": "http://www.gutenberg.org/2009/agents/2775",
+                    "wikipedia": "http://en.wikipedia.org/wiki/Ernest_Dowson",
+                    "gutenberg_agent_id": "2775",
+                    "birthdate": 1867,
+                    "deathdate": 1900
+                }
+            ]
+        }
+    },
+    "language_note": {
+        "23201": "This ebook uses a 19th century spelling",
+        "22378": "This ebook uses 19th century spelling",
+        "22772": "This ebook uses 19th century spelling",
+        "22469": "This ebook uses 19th century spelling",
+        "22468": "This ebook uses a beginning of the 20th century spelling",
+        "20841": "This ebook uses a beginning of the 20th century spelling.\r\nFor a spelling modernization following Standard Portuguese from the beginning of the 21st century see: EText-No. #22057",
+        "22508": "This ebook uses 19th century spelling",
+        "22509": "This ebook uses a beginning of the 20th century spelling",
+        "23590": "This ebook uses a 19th century spelling",
+        "132": "Translated from the Chinese by Lionel Giles, M.A. (1910)",
+        "21082": "This ebook uses a beginning of the 20th century spelling",
+        "23203": "This ebook uses a 19th century spelling",
+        "21563": "This ebook uses 19th century spelling",
+        "24319": "This ebook uses a 19th century spelling",
+        "23442": "This ebook uses a 19th century spelling",
+        "24411": "This ebooks uses a 19th century spelling",
+        "24412": "This ebooks uses a 19th century spelling",
+        "23851": "This ebook uses a beginning of the 20th century spelling",
+        "23919": "This ebook uses a beginnig of the 20th century spelling",
+        "24164": "This ebooks uses a 19th century spelling",
+        "21406": "This ebook uses a beginning of the 20th century spelling",
+        "23110": "This ebook uses a 19th century spelling",
+        "547": "Translated from the French",
+        "24190": "This ebook uses a 19th century spelling",
+        "21911": "This ebook uses a beginning of the 20th century spelling.",
+        "22678": "This ebook uses a beginning of the 20th century spelling",
+        "22679": "This ebook uses a beginning of the 20th century spelling",
+        "21567": "This ebook uses 19th century spelling",
+        "24508": "This ebook uses a beginning of the 20th century spelling",
+        "23687": "This ebook uses a beginning of the 20th century spelling",
+        "20570": "This ebook uses 19th century spelling",
+        "21779": "This ebook uses 19th century spelling",
+        "24464": "This ebook uses a 19th century spelling",
+        "22647": "This ebook uses a beginning of the 20th century spelling",
+        "20999": "This ebook uses 19th century spelling",
+        "20998": "This ebook uses 19th century spelling",
+        "24463": "This ebook uses a 19th century spelling",
+        "24462": "This ebook uses a 19th century spelling",
+        "22817": "This ebook uses a 19th century spelling",
+        "20508": "This ebook uses 19th century spelling",
+        "22648": "This ebooks uses a beginning of the 20th century spelling",
+        "22643": "This ebook uses a beginning of the 20th century spelling",
+        "21581": "This ebook uses a spelling from the beginning of the 20th century",
+        "23879": "This ebook uses a beginning of the 20th century spelling",
+        "29529": [
+            "Este livro eletr\u00f3nico usa a ortografia da edi\u00e7\u00e3o em papel do s\u00e9culo XIX.\r\nPara ajudar o Project Gutenberg a atualizar a ortografia desta obra, visite a p\u00e1gina http://www.gutenberg.org/wiki/PT_Ortografia",
+            "This ebook uses 19th century spelling"
+        ],
+        "22658": "This ebook uses 19th century spelling",
+        "305": "Translated from French",
+        "21209": "This ebook uses a beginning of the 20th century spelling",
+        "8698": "This ebook uses a 19th century spelling",
+        "16244": "Translated from the Turkish by George Borrow.",
+        "22412": "This ebook uses 19th century spelling",
+        "22907": "This ebook uses a beginning of the 20th century spelling",
+        "782": "Translated from Anglo-Norman",
+        "24289": "This ebook uses an 18th century spelling",
+        "21290": "This ebook uses a spelling from the beginning of the 20th century",
+        "20581": "This ebook uses 19th century spelling",
+        "29435": [
+            "This ebook uses a beginning of the 20th century spelling.",
+            "Este livro eletr\u00f3nico usa a ortografia da edi\u00e7\u00e3o em papel do in\u00edcio do s\u00e9culo XX. \r\nPara ajudar o Project Gutenberg a atualizar a ortografia desta obra, visite a p\u00e1gina http://www.gutenberg.org/wiki/PT_Ortografia ."
+        ],
+        "23145": "This ebook uses a beginning of the 20th century spelling",
+        "22622": "This ebook uses a beginning of the 20th century spelling",
+        "23486": "This ebook uses a 19th century spelling"
+    },
+    "covers": {
+        "35237": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "35237/35237-h/images/bath_pulteney_bridge_sml.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "35543": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "35543/35543-h/images/title.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "35233": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "35233/35233-h/images/cover01.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "35231": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "35231/35231-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "35549": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "35549/35549-h/images/title-page.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "35235": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "35235/35235-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "43947": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "43947/43947-h/images/img-cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "43879": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "43879/43879-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "31840": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "31840/31840-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "43875": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "43875/43875-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "43874": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "43874/43874-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "43877": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "43877/43877-h/images/frontcover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "43876": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "43876/43876-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "43871": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "43871/43871-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "43870": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "43870/43870-h/images/title.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "43873": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "43873/43873-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "43872": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "43872/43872-rst/images/img-cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "37732": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "37732/37732-h/images/img-title.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "46139": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "46139/46139-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "46138": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "46138/46138-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "46137": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "46137/46137-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "46136": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "46136/46136-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "46135": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "46135/46135-h/images/cover-page.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "963": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "963/963-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "46132": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "46132/46132-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "46131": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "46131/46131-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "46130": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "46130/46130-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "36707": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "36707/36707-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "36703": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "36703/36703-h/images/i_covert.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "32011": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "32011/32011-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "32010": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "32010/32010-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "36253": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "36253/36253-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "32015": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "32015/32015-h/images/title.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "32019": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "32019/32019-h/images/title.png",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "45118": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "45118/45118-h/images/coverpage.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "45119": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "45119/45119-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "45449": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "45449/45449-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "45446": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "45446/45446-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "45447": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "45447/45447-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "45112": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "45112/45112-h/images/cover-page.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "45113": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "45113/45113-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "45114": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "45114/45114-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "45115": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "45115/45115-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "45116": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "45116/45116-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "45441": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "45441/45441-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "44799": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "44799/44799-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "44798": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "44798/44798-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "44249": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "44249/44249-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "44791": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "44791/44791-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "44242": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "44242/44242-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "44241": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "44241/44241-h/images/cover.png",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "44240": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "44240/44240-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "44247": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "44247/44247-h/images/title-page.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "44246": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "44246/44246-h/images/cover_ebook.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "44797": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "44797/44797-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "44244": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "44244/44244-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "42838": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "42838/42838-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "42839": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "42839/42839-h/images/front_cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "37799": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "37799/37799-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ],
+        "37798": [
+            {
+                "rights_url": "http://creativecommons.org/about/pdm",
+                "image_path": "37798/37798-h/images/cover.jpg",
+                "cover_type": "archival",
+                "rights": "Public domain in the USA."
+            }
+        ]
+    },
+    "gutenberg_bookshelf": {
+        "35542": [
+            "Animal",
+            "Animals-Wild-Mammals"
+        ],
+        "35235": "L'Illustration",
+        "35545": "Adventure",
+        "35230": "DE Sachbuch",
+        "35547": "DE Prosa",
+        "37516": "Notes and Queries",
+        "35549": "DE Sachbuch",
+        "21094": "Science Fiction",
+        "48581": "FR Litt\u00e9rature",
+        "11542": "The Mirror of Literature, Amusement, and Instruction",
+        "11543": "The Mirror of Literature, Amusement, and Instruction",
+        "11540": "The Mirror of Literature, Amusement, and Instruction",
+        "11541": "The Mirror of Literature, Amusement, and Instruction",
+        "11547": [
+            "Native America",
+            "Folklore"
+        ],
+        "11544": "Slavery",
+        "11548": "McClure's Magazine",
+        "48583": "Chambers's Edinburgh Journal",
+        "5988": "Fantasy",
+        "51269": "FR Litt\u00e9rature",
+        "51268": "Science Fiction",
+        "51267": "Science Fiction",
+        "51266": [
+            "FR Litt\u00e9rature",
+            "FR Nouvelles"
+        ],
+        "6973": "Children's Book Series",
+        "5981": "Children's Book Series",
+        "19393": "Fantasy",
+        "22261": "United Kingdom",
+        "22260": "Architecture",
+        "48898": "World War II",
+        "48899": "World War II",
+        "22265": "Children's Book Series",
+        "36886": "McClure's Magazine",
+        "22266": [
+            "France",
+            "FR Villes"
+        ],
+        "22269": "United Kingdom",
+        "22268": [
+            "FR Histoire",
+            "France"
+        ],
+        "16423": "Christianity",
+        "48896": "Esperanto",
+        "25063": "Opera",
+        "32230": "Science Fiction",
+        "25066": "Blackwood's Edinburgh Magazine",
+        "25067": "Science Fiction",
+        "25064": "The Bay State Monthly",
+        "25065": "Blackwood's Edinburgh Magazine",
+        "55612": "The American Missionary",
+        "21092": [
+            "Science Fiction",
+            "Pirates, Buccaneers, Corsairs, etc."
+        ],
+        "43871": "FR Histoire",
+        "43870": "The American Missionary",
+        "43873": "Opera",
+        "55613": "The American Missionary",
+        "41537": "Italy",
+        "7624": "Historical Fiction",
+        "19714": [
+            "Children's Fiction",
+            "Historical Fiction"
+        ],
+        "27370": "Christianity",
+        "6791": "Opera",
+        "46137": "L'Illustration",
+        "27379": "FR Litt\u00e9rature",
+        "6798": "Philosophy",
+        "6799": "Philosophy",
+        "2641": "Italy",
+        "35565": "Latter Day Saints",
+        "28993": "IT Romanzi"
+    },
+    "contributor": {
+        "35541": {
+            "translator": {
+                "agent_name": "Wister, A. L. (Annis Lee)",
+                "url": "http://www.gutenberg.org/2009/agents/37305",
+                "gutenberg_agent_id": "37305",
+                "birthdate": 1830,
+                "deathdate": 1908,
+                "aliases": [
+                    "Wister, Mrs. A. L.",
+                    "Wister, Annis Lee",
+                    "Furness, Annis Lee",
+                    "Wister, A.L."
+                ]
+            }
+        },
+        "35543": {
+            "translator": {
+                "agent_name": "Teixeira de Mattos, Alexander",
+                "url": "http://www.gutenberg.org/2009/agents/736",
+                "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Teixeira_de_Mattos",
+                "gutenberg_agent_id": "736",
+                "birthdate": 1865,
+                "deathdate": 1921,
+                "aliases": [
+                    "Mattos, Alexander Teixera de",
+                    "De Mattos, Alexander Teixeira",
+                    "Mattos, Alexander Teixeira de",
+                    "Teixeira de Mattos, Alexander Louis"
+                ]
+            }
+        },
+        "35233": {
+            "illustrator": {
+                "agent_name": "Gibson, Charles Dana",
+                "url": "http://www.gutenberg.org/2009/agents/26456",
+                "wikipedia": "http://en.wikipedia.org/wiki/Charles_Dana_Gibson",
+                "gutenberg_agent_id": "26456",
+                "birthdate": 1867,
+                "alias": "Gibson, C. D. (Charles Dana)",
+                "deathdate": 1944
+            }
+        },
+        "35546": {
+            "illustrator": {
+                "agent_name": "Boyd, A. S. (Alexander Stuart)",
+                "url": "http://www.gutenberg.org/2009/agents/4548",
+                "gutenberg_agent_id": "4548",
+                "birthdate": 1854,
+                "alias": "Boyd, Alexander Stuart",
+                "deathdate": 1930
+            }
+        },
+        "60417": {
+            "illustrator": {
+                "agent_name": "Picasso, Pablo",
+                "url": "http://www.gutenberg.org/2009/agents/49945",
+                "wikipedia": [
+                    "https://fr.wikipedia.org/wiki/Pablo_Picasso",
+                    "https://en.wikipedia.org/wiki/Pablo_Picasso"
+                ],
+                "gutenberg_agent_id": "49945",
+                "birthdate": 1881,
+                "deathdate": 1973,
+                "aliases": [
+                    "Ruiz y Picasso, Pablo",
+                    "Ruys Picasso, Pablo"
+                ]
+            }
+        },
+        "28990": {
+            "illustrator": {
+                "agent_name": "Cory, Fanny Y.",
+                "url": "http://www.gutenberg.org/2009/agents/33622",
+                "gutenberg_agent_id": "33622",
+                "birthdate": 1877,
+                "deathdate": 1972,
+                "aliases": [
+                    "Cory, F. Y. (Fanny Y.)",
+                    "Cooney, Fanny Young Cory"
+                ]
+            }
+        },
+        "28993": {
+            "illustrator": {
+                "url": "http://www.gutenberg.org/2009/agents/33625",
+                "agent_name": "Cascella, Basilio",
+                "deathdate": 1950,
+                "gutenberg_agent_id": "33625",
+                "birthdate": 1860
+            }
+        },
+        "11549": {
+            "contributor": {
+                "agent_name": "Prentiss, E. (Elizabeth)",
+                "url": "http://www.gutenberg.org/2009/agents/948",
+                "wikipedia": "http://en.wikipedia.org/wiki/Elizabeth_Prentiss",
+                "gutenberg_agent_id": "948",
+                "birthdate": 1818,
+                "deathdate": 1878,
+                "aliases": [
+                    "Prentiss, Elizabeth Payson",
+                    "Prentiss, E. P. (Elizabeth Payson)"
+                ]
+            }
+        },
+        "55293": {
+            "translator": {
+                "agent_name": "Soini, Lauri",
+                "url": "http://www.gutenberg.org/2009/agents/42573",
+                "wikipedia": "https://fi.wikipedia.org/wiki/Lauri_Soini",
+                "gutenberg_agent_id": "42573",
+                "birthdate": 1875,
+                "deathdate": 1919,
+                "aliases": [
+                    "Soininen, L.",
+                    "Sauramo, Lauri",
+                    "Ahava, Juho"
+                ]
+            }
+        },
+        "5988": {
+            "author_of_introduction": {
+                "agent_name": "Jacobs, Joseph",
+                "url": "http://www.gutenberg.org/2009/agents/2470",
+                "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Jacobs",
+                "gutenberg_agent_id": "2470",
+                "birthdate": 1854,
+                "deathdate": 1916
+            }
+        },
+        "55297": {
+            "illustrator": {
+                "url": "http://www.gutenberg.org/2009/agents/48222",
+                "agent_name": "Foulger, Dorothy",
+                "gutenberg_agent_id": "48222"
+            }
+        },
+        "51268": {
+            "illustrator": {
+                "agent_name": "Emshwiller, Ed",
+                "url": "http://www.gutenberg.org/2009/agents/25412",
+                "wikipedia": "http://en.wikipedia.org/wiki/Ed_Emshwiller",
+                "gutenberg_agent_id": "25412",
+                "birthdate": 1925,
+                "deathdate": 1990,
+                "aliases": [
+                    "Emshwiller, Edmund A.",
+                    "Willer",
+                    "Emsh",
+                    "Emsh, Ed",
+                    "Alexander, Ed"
+                ]
+            }
+        },
+        "51267": {
+            "illustrator": {
+                "url": "http://www.gutenberg.org/2009/agents/25425",
+                "agent_name": "Schelling, George",
+                "gutenberg_agent_id": "25425",
+                "birthdate": 1938,
+                "aliases": [
+                    "Schelling, George Luther",
+                    "Schelling",
+                    "Schelling, George L."
+                ]
+            }
+        },
+        "5983": {
+            "translator": {
+                "agent_name": "Moyle, John Baron",
+                "url": "http://www.gutenberg.org/2009/agents/1903",
+                "gutenberg_agent_id": "1903",
+                "birthdate": 1852,
+                "alias": "Moyle, J. B. (John Baron)",
+                "deathdate": 1930
+            }
+        },
+        "55298": {
+            "illustrator": {
+                "url": "http://www.gutenberg.org/2009/agents/37605",
+                "agent_name": "Howitt, John Newton",
+                "deathdate": 1958,
+                "gutenberg_agent_id": "37605",
+                "birthdate": 1885
+            }
+        },
+        "19392": {
+            "illustrator": {
+                "agent_name": "Hood, George Washington",
+                "url": "http://www.gutenberg.org/2009/agents/8642",
+                "gutenberg_agent_id": "8642",
+                "birthdate": 1869,
+                "deathdate": 1949,
+                "aliases": [
+                    "Hood, George W.",
+                    "Hood, G. W."
+                ]
+            },
+            "compiler": {
+                "url": "http://www.gutenberg.org/2009/agents/8680",
+                "agent_name": "Gray, Arthur",
+                "gutenberg_agent_id": "8680",
+                "birthdate": 1859
+            }
+        },
+        "51261": {
+            "illustrator": {
+                "url": "http://www.gutenberg.org/2009/agents/46333",
+                "agent_name": "Cameron, Hugh Armstrong",
+                "deathdate": 1918,
+                "gutenberg_agent_id": "46333",
+                "birthdate": 1835
+            }
+        },
+        "55344": {
+            "translator": {
+                "agent_name": "Soini, Lauri",
+                "url": "http://www.gutenberg.org/2009/agents/42573",
+                "wikipedia": "https://fi.wikipedia.org/wiki/Lauri_Soini",
+                "gutenberg_agent_id": "42573",
+                "birthdate": 1875,
+                "deathdate": 1919,
+                "aliases": [
+                    "Soininen, L.",
+                    "Ahava, Juho",
+                    "Sauramo, Lauri"
+                ]
+            }
+        },
+        "22267": {
+            "illustrator": {
+                "agent_name": "Goldbeck, Walter Dean",
+                "url": "http://www.gutenberg.org/2009/agents/25224",
+                "gutenberg_agent_id": "25224",
+                "birthdate": 1882,
+                "alias": "Goldbeck, W. D. (Walter Dean)",
+                "deathdate": 1925
+            }
+        },
+        "48893": {
+            "translator": {
+                "url": "http://www.gutenberg.org/2009/agents/45028",
+                "agent_name": "Burnham, I. G.",
+                "gutenberg_agent_id": "45028"
+            },
+            "illustrators": [
+                {
+                    "url": "http://www.gutenberg.org/2009/agents/45026",
+                    "agent_name": "Le Sueur, Fran\u00e7ois-Xavier",
+                    "gutenberg_agent_id": "45026",
+                    "aliases": [
+                        "Le Sueur, Francois-Xavier",
+                        "Sueur, Fran\u00e7ois-Xavier le"
+                    ]
+                },
+                {
+                    "agent_name": "Toudouze, \u00c9douard",
+                    "url": "http://www.gutenberg.org/2009/agents/45027",
+                    "gutenberg_agent_id": "45027",
+                    "birthdate": 1848,
+                    "deathdate": 1907,
+                    "aliases": [
+                        "Toudouze, Edouard",
+                        "Toudouze, E. (\u00c9douard)"
+                    ]
+                }
+            ]
+        },
+        "38845": {
+            "illustrator": {
+                "agent_name": "Williams, Morris Meredith",
+                "url": "http://www.gutenberg.org/2009/agents/38907",
+                "wikipedia": "https://en.wikipedia.org/wiki/Morris_Meredith_Williams",
+                "gutenberg_agent_id": "38907",
+                "birthdate": 1881,
+                "deathdate": 1973,
+                "aliases": [
+                    "Williams, M. Meredith",
+                    "Williams, Morris M."
+                ]
+            }
+        },
+        "16071": {
+            "translator": {
+                "agent_name": "K\u00e4kikoski, Hilda Maria",
+                "url": "http://www.gutenberg.org/2009/agents/6470",
+                "gutenberg_agent_id": "6470",
+                "birthdate": 1863,
+                "deathdate": 1912,
+                "aliases": [
+                    "Sjostrom, Hilda Maria",
+                    "Kakikoski, Hilda Maria",
+                    "Sj\u00f6str\u00f6m, Hilda Maria"
+                ]
+            }
+        },
+        "48894": {
+            "translator": {
+                "url": "http://www.gutenberg.org/2009/agents/45028",
+                "agent_name": "Burnham, I. G.",
+                "gutenberg_agent_id": "45028"
+            },
+            "illustrators": [
+                {
+                    "agent_name": "Toudouze, \u00c9douard",
+                    "url": "http://www.gutenberg.org/2009/agents/45027",
+                    "gutenberg_agent_id": "45027",
+                    "birthdate": 1848,
+                    "deathdate": 1907,
+                    "aliases": [
+                        "Toudouze, E. (\u00c9douard)",
+                        "Toudouze, Edouard"
+                    ]
+                },
+                {
+                    "url": "http://www.gutenberg.org/2009/agents/45026",
+                    "agent_name": "Le Sueur, Fran\u00e7ois-Xavier",
+                    "gutenberg_agent_id": "45026",
+                    "aliases": [
+                        "Le Sueur, Francois-Xavier",
+                        "Sueur, Fran\u00e7ois-Xavier le"
+                    ]
+                }
+            ]
+        },
+        "48895": {
+            "translator": {
+                "url": "http://www.gutenberg.org/2009/agents/9210",
+                "agent_name": "Chapman, George",
+                "deathdate": 1634,
+                "gutenberg_agent_id": "9210"
+            }
+        },
+        "43878": {
+            "illustrator": {
+                "agent_name": "Goble, Warwick",
+                "url": "http://www.gutenberg.org/2009/agents/25683",
+                "wikipedia": "https://en.wikipedia.org/wiki/Warwick_Goble",
+                "gutenberg_agent_id": "25683",
+                "birthdate": 1862,
+                "deathdate": 1943
+            }
+        },
+        "43875": {
+            "illustrator": {
+                "agent_name": "Davis, J. Watson",
+                "url": "http://www.gutenberg.org/2009/agents/32768",
+                "gutenberg_agent_id": "32768",
+                "birthdate": 1870,
+                "alias": "Davis, John Watson",
+                "deathdate": 1959
+            }
+        },
+        "32236": {
+            "illustrator": {
+                "agent_name": "Heming, Arthur",
+                "url": "http://www.gutenberg.org/2009/agents/8067",
+                "gutenberg_agent_id": "8067",
+                "birthdate": 1871,
+                "alias": "Heming, Arthur Henry Howard",
+                "deathdate": 1940
+            }
+        },
+        "32234": {
+            "translator": {
+                "agent_name": "Bain, R. Nisbet (Robert Nisbet)",
+                "url": "http://www.gutenberg.org/2009/agents/5096",
+                "gutenberg_agent_id": "5096",
+                "birthdate": 1854,
+                "alias": "Bain, Robert Nisbet",
+                "deathdate": 1909
+            }
+        },
+        "37221": {
+            "translator": {
+                "agent_name": "Mitchell, P. Chalmers (Peter Chalmers), Sir",
+                "url": "http://www.gutenberg.org/2009/agents/7034",
+                "gutenberg_agent_id": "7034",
+                "birthdate": 1864,
+                "alias": "Mitchell, Peter Chalmers, Sir",
+                "deathdate": 1945
+            }
+        },
+        "55884": {
+            "translator": {
+                "agent_name": "Soini, Lauri",
+                "url": "http://www.gutenberg.org/2009/agents/42573",
+                "wikipedia": "https://fi.wikipedia.org/wiki/Lauri_Soini",
+                "gutenberg_agent_id": "42573",
+                "birthdate": 1875,
+                "deathdate": 1919,
+                "aliases": [
+                    "Ahava, Juho",
+                    "Sauramo, Lauri",
+                    "Soininen, L."
+                ]
+            }
+        },
+        "10612": {
+            "author_of_introduction": {
+                "agent_name": "Keynes, John Maynard",
+                "url": "http://www.gutenberg.org/2009/agents/6280",
+                "wikipedia": "http://en.wikipedia.org/wiki/John_Maynard_Keynes",
+                "gutenberg_agent_id": "6280",
+                "birthdate": 1883,
+                "deathdate": 1946,
+                "aliases": [
+                    "Keynes, John Maynard Keynes, Baron",
+                    "Keynes, J. M. (John Maynard)"
+                ]
+            }
+        },
+        "6792": {
+            "translator": {
+                "url": "http://www.gutenberg.org/2009/agents/4724",
+                "agent_name": "Swanwick, Anna",
+                "deathdate": 1899,
+                "gutenberg_agent_id": "4724",
+                "birthdate": 1813
+            }
+        },
+        "36709": {
+            "translator": {
+                "agent_name": "Wister, A. L. (Annis Lee)",
+                "url": "http://www.gutenberg.org/2009/agents/37305",
+                "gutenberg_agent_id": "37305",
+                "birthdate": 1830,
+                "deathdate": 1908,
+                "aliases": [
+                    "Furness, Annis Lee",
+                    "Wister, A.L.",
+                    "Wister, Annis Lee",
+                    "Wister, Mrs. A. L."
+                ]
+            }
+        },
+        "6791": {
+            "translator": {
+                "url": "http://www.gutenberg.org/2009/agents/39972",
+                "agent_name": "Mellish, Joseph Charles",
+                "deathdate": 1823,
+                "gutenberg_agent_id": "39972",
+                "birthdate": 1768
+            }
+        },
+        "46133": {
+            "translator": {
+                "agent_name": "Krohn, Julius",
+                "url": "http://www.gutenberg.org/2009/agents/4607",
+                "wikipedia": "http://fi.wikipedia.org/wiki/Julius_Krohn",
+                "gutenberg_agent_id": "4607",
+                "birthdate": 1835,
+                "deathdate": 1888,
+                "aliases": [
+                    "Krohn, Julius Leopold Fredrik",
+                    "Krohn, J. (Julius)",
+                    "Krohn, Gyula",
+                    "Suonio"
+                ]
+            }
+        },
+        "53908": {
+            "author_of_introduction": {
+                "url": "http://www.gutenberg.org/2009/agents/47612",
+                "agent_name": "Browne, Euphemia Stewart",
+                "gutenberg_agent_id": "47612"
+            }
+        },
+        "56126": {
+            "translator": {
+                "url": "http://www.gutenberg.org/2009/agents/48540",
+                "agent_name": "Graham, James",
+                "gutenberg_agent_id": "48540"
+            }
+        },
+        "58595": {
+            "illustrator": {
+                "url": "http://www.gutenberg.org/2009/agents/49243",
+                "agent_name": "Schaeffer, Phil",
+                "gutenberg_agent_id": "49243"
+            }
+        },
+        "57298": {
+            "illustrator": {
+                "agent_name": "Rockwell, Norman",
+                "url": "http://www.gutenberg.org/2009/agents/33979",
+                "wikipedia": "http://en.wikipedia.org/wiki/Norman_Rockwell",
+                "gutenberg_agent_id": "33979",
+                "birthdate": 1894,
+                "deathdate": 1978,
+                "aliases": [
+                    "Rockwell, Norman P.",
+                    "Rockwell, Norman Percevel"
+                ]
+            }
+        },
+        "57299": {
+            "illustrator": {
+                "agent_name": "Haslehust, E. W.",
+                "url": "http://www.gutenberg.org/2009/agents/26576",
+                "wikipedia": "https://en.wikipedia.org/wiki/Ernest_William_Haslehust",
+                "gutenberg_agent_id": "26576",
+                "birthdate": 1866,
+                "deathdate": 1949,
+                "aliases": [
+                    "Haslehurst, Ernest William",
+                    "Hazelhurst, Ernest",
+                    "Haslehurst, E. W.",
+                    "Haslehust, Ernest William"
+                ]
+            }
+        },
+        "25282": {
+            "commentators": [
+                {
+                    "url": "http://www.gutenberg.org/2009/agents/31211",
+                    "agent_name": "Bein, Alex",
+                    "deathdate": 1988,
+                    "gutenberg_agent_id": "31211",
+                    "birthdate": 1903
+                },
+                {
+                    "url": "http://www.gutenberg.org/2009/agents/31210",
+                    "agent_name": "Lipsky, Louis",
+                    "deathdate": 1963,
+                    "gutenberg_agent_id": "31210",
+                    "birthdate": 1876
+                }
+            ]
+        },
+        "25283": {
+            "commentator": {
+                "agent_name": "Morley, Christopher",
+                "url": "http://www.gutenberg.org/2009/agents/109",
+                "wikipedia": "http://en.wikipedia.org/wiki/Christopher_Morley",
+                "gutenberg_agent_id": "109",
+                "birthdate": 1890,
+                "alias": "Morley, Christopher Darlington",
+                "deathdate": 1957
+            }
+        },
+        "24828": {
+            "illustrator": {
+                "url": "http://www.gutenberg.org/2009/agents/6348",
+                "agent_name": "Barry, Etheldred B. (Etheldred Breeze)",
+                "gutenberg_agent_id": "6348",
+                "birthdate": 1870,
+                "aliases": [
+                    "Barry, Ethelred Breeze",
+                    "Barry, Etheldred Breeze",
+                    "Barry, E. B. (Etheldred Breeze)"
+                ]
+            }
+        },
+        "36250": {
+            "author_of_introduction": {
+                "agent_name": "Morris, William",
+                "url": "http://www.gutenberg.org/2009/agents/107",
+                "wikipedia": "http://en.wikipedia.org/wiki/William_Morris",
+                "gutenberg_agent_id": "107",
+                "birthdate": 1834,
+                "alias": "Morris, William M.",
+                "deathdate": 1896
+            }
+        },
+        "19973": {
+            "translator": {
+                "agent_name": "Schreiber, Charlotte, Lady",
+                "url": "http://www.gutenberg.org/2009/agents/1716",
+                "wikipedia": "https://en.wikipedia.org/wiki/Lady_Charlotte_Guest",
+                "gutenberg_agent_id": "1716",
+                "birthdate": 1812,
+                "deathdate": 1895,
+                "aliases": [
+                    "Schreiber, Charlotte Elizabeth Bertie Guest, Lady",
+                    "Guest, Charlotte, Lady"
+                ]
+            }
+        },
+        "16252": {
+            "illustrator": {
+                "agent_name": "Rockwell, Norman",
+                "url": "http://www.gutenberg.org/2009/agents/33979",
+                "wikipedia": "http://en.wikipedia.org/wiki/Norman_Rockwell",
+                "gutenberg_agent_id": "33979",
+                "birthdate": 1894,
+                "deathdate": 1978,
+                "aliases": [
+                    "Rockwell, Norman Percevel",
+                    "Rockwell, Norman P."
+                ]
+            }
+        },
+        "55834": {
+            "translator": {
+                "url": "http://www.gutenberg.org/2009/agents/48541",
+                "agent_name": "Donker, Ida",
+                "gutenberg_agent_id": "48541"
+            }
+        },
+        "55835": {
+            "translator": {
+                "agent_name": "Soini, Lauri",
+                "url": "http://www.gutenberg.org/2009/agents/42573",
+                "wikipedia": "https://fi.wikipedia.org/wiki/Lauri_Soini",
+                "gutenberg_agent_id": "42573",
+                "birthdate": 1875,
+                "deathdate": 1919,
+                "aliases": [
+                    "Ahava, Juho",
+                    "Sauramo, Lauri",
+                    "Soininen, L."
+                ]
+            }
+        },
+        "51847": {
+            "translator": {
+                "agent_name": "Allinson, A. R. (Alfred Richard)",
+                "url": "http://www.gutenberg.org/2009/agents/8208",
+                "wikipedia": "http://en.wikipedia.org/wiki/Alfred_Richard_Allinson",
+                "gutenberg_agent_id": "8208",
+                "birthdate": 1854,
+                "alias": "Allinson, Alfred Richard"
+            },
+            "illustrator": {
+                "agent_name": "Detmold, Edward Julius",
+                "url": "http://www.gutenberg.org/2009/agents/39517",
+                "gutenberg_agent_id": "39517",
+                "birthdate": 1883,
+                "alias": "Detmold, E. J. (Edward Julius)",
+                "deathdate": 1957
+            }
+        },
+        "19976": {
+            "translator": {
+                "agent_name": "Schreiber, Charlotte, Lady",
+                "url": "http://www.gutenberg.org/2009/agents/1716",
+                "wikipedia": "https://en.wikipedia.org/wiki/Lady_Charlotte_Guest",
+                "gutenberg_agent_id": "1716",
+                "birthdate": 1812,
+                "deathdate": 1895,
+                "aliases": [
+                    "Schreiber, Charlotte Elizabeth Bertie Guest, Lady",
+                    "Guest, Charlotte, Lady"
+                ]
+            }
+        },
+        "51845": {
+            "illustrator": {
+                "agent_name": "Wood, Wallace",
+                "url": "http://www.gutenberg.org/2009/agents/32276",
+                "wikipedia": "http://en.wikipedia.org/wiki/Wally_Wood",
+                "gutenberg_agent_id": "32276",
+                "birthdate": 1927,
+                "alias": "Wood, Wally",
+                "deathdate": 1981
+            }
+        },
+        "16254": {
+            "commentator": {
+                "agent_name": "Waddell, Rutherford",
+                "url": "http://www.gutenberg.org/2009/agents/6576",
+                "wikipedia": "http://www.teara.govt.nz/1966/W/WaddellRutherford/en",
+                "gutenberg_agent_id": "6576",
+                "birthdate": 1849,
+                "deathdate": 1932
+            }
+        },
+        "16705": {
+            "illustrator": {
+                "url": "http://www.gutenberg.org/2009/agents/6880",
+                "agent_name": "Morley, Harry",
+                "deathdate": 1943,
+                "gutenberg_agent_id": "6880",
+                "birthdate": 1881
+            }
+        },
+        "279": {
+            "contributor": {
+                "url": "http://www.gutenberg.org/2009/agents/43998",
+                "agent_name": "White Sands Missile Range (N.M.). Public Affairs Office",
+                "gutenberg_agent_id": "43998",
+                "alias": "Office, White Sands Missile Range Public Affairs"
+            }
+        },
+        "19979": {
+            "illustrator": {
+                "url": "http://www.gutenberg.org/2009/agents/9007",
+                "agent_name": "Behrend, Arthur C.",
+                "gutenberg_agent_id": "9007"
+            }
+        },
+        "51848": {
+            "illustrator": {
+                "agent_name": "Schaare, C. Richard (Christian Richard)",
+                "url": "http://www.gutenberg.org/2009/agents/46572",
+                "gutenberg_agent_id": "46572",
+                "birthdate": 1893,
+                "deathdate": 1980,
+                "aliases": [
+                    "Schaare, C. R.",
+                    "Schaare, Christian Richard"
+                ]
+            }
+        },
+        "18188": {
+            "translator": {
+                "url": "http://www.gutenberg.org/2009/agents/7863",
+                "agent_name": "Kennedy, J. M. (John McFarland)",
+                "gutenberg_agent_id": "7863",
+                "alias": "Kennedy, John McFarland"
+            }
+        },
+        "22485": {
+            "illustrator": {
+                "agent_name": "Widgery, F. J. (Frederick John)",
+                "url": "http://www.gutenberg.org/2009/agents/25528",
+                "gutenberg_agent_id": "25528",
+                "birthdate": 1861,
+                "alias": "Widgery, Frederick John",
+                "deathdate": 1942
+            }
+        },
+        "12019": {
+            "translator": {
+                "agent_name": "Coleman, Chapman, Mrs.",
+                "url": "http://www.gutenberg.org/2009/agents/1175",
+                "gutenberg_agent_id": "1175",
+                "birthdate": 1813,
+                "deathdate": 1891,
+                "aliases": [
+                    "Coleman, Mrs. Chapman",
+                    "Coleman, Ann Mary Butler Crittenden"
+                ]
+            }
+        },
+        "42086": {
+            "illustrator": {
+                "url": "http://www.gutenberg.org/2009/agents/25468",
+                "agent_name": "Wrenn, Charles L. (Charles Lewis)",
+                "deathdate": 1952,
+                "gutenberg_agent_id": "25468",
+                "birthdate": 1880
+            }
+        }
+    },
+    "title": {
+        "50088": "The Marryers: A History Gathered from a Brief of the Honorable Socrates Potter",
+        "3480": "The Hunchback",
+        "11542": "The Mirror of Literature, Amusement, and Instruction. Volume 19, No. 544, April 28, 1832",
+        "11543": "The Mirror of Literature, Amusement, and Instruction. Volume 19, No. 545, May 5, 1832",
+        "11540": "The Mirror of Literature, Amusement, and Instruction. Volume 19, No. 536, March 3, 1832",
+        "11541": "The Mirror of Literature, Amusement, and Instruction. Volume 20, No. 567, September 22, 1832",
+        "11546": "The Autobiography of a Journalist, Volume I",
+        "11547": "Blackfoot Lodge Tales: The Story of a Prairie People",
+        "11544": "Slave Narratives: a Folk History of Slavery in the United States\nFrom Interviews with Former Slaves\nArkansas Narratives, Part 5",
+        "11545": "Travels in the United States of America\r\nCommencing in the Year 1793, and Ending in 1797. With the Author's Journals of his Two Voyages Across the Atlantic.",
+        "11548": "McClure's Magazine December, 1895",
+        "11549": "The Life and Letters of Elizabeth Prentiss",
+        "5988": "Old French Romances, Done into English",
+        "5989": "The Curlytops on Star Island; Or, Camping out with Grandpa",
+        "19399": "St. Nicholas Magazine for Boys and Girls, Vol. 5, January 1878, No. 3",
+        "51541": "Louise Imogen Guiney",
+        "5982": "Eeldrop and Appleplex",
+        "5983": "The Institutes of Justinian",
+        "5980": "Kent Knowles: Quahaug",
+        "5981": "The Boy Scouts in Front of Warsaw; Or, In the Wake of War",
+        "5986": "Clara Hopgood",
+        "5987": "In Kedar's Tents",
+        "5984": "The British North America Act, 1867",
+        "5985": "Zadig, \u00f3 El Destino, Historia Oriental",
+        "53900": "Historical Record of the Seventh, or the Queen's Own Regiment of Hussars\r\nContaining an Account of the Origin of the Regiment in 1690, and of Its Subsequent Services to 1842",
+        "53901": "The Merman and the Figure-Head",
+        "28567": "Godfrey Marten, Undergraduate",
+        "57483": "The Napoleon Gallery\r\nor, Illustrations of the life and times of the emperor of France",
+        "57482": "The Picture Gallery Explored\r\nOr, an account of various ancient customs and manners: interspersed with anecdotes and biographical sketches of eminent persons",
+        "57485": "Index for Works of Andrew Barton 'Banjo' Paterson\nHyperlinks to all Chapters of all Individual Ebooks",
+        "57484": "The Golden South: Memories of Australian Home Life from 1843 to 1888",
+        "36709": "Only a Girl: or, A Physician for the Soul.",
+        "46139": "The Autobiography of a Clown",
+        "46138": "A Rough Diamond: A Comic Drama in One Act",
+        "46137": "L'Illustration, No. 0060, 20 Avril 1844",
+        "46136": "History of the Fan",
+        "46135": "Romantische Lieder",
+        "36708": "Soeur Th\u00e9r\u00e8se de l'Enfant-J\u00e9sus et de la Sainte Face\r\nHistoire d'une \u00e2me \u00e9crite par elle-m\u00eame",
+        "46133": "Lammermoorin morsian",
+        "46132": "The Wars of the Roses; or, Stories of the Struggle of York and Lancaster",
+        "46131": "The Adventures of Captain John Patterson\r\nWith Notices of the Officers, &c. of the 50th, or Queen's Own Regiment from 1807 to 1821",
+        "46130": "Locke",
+        "36707": "Charles' Journey to France, and Other Tales",
+        "36706": "L'Illustration, No. 3273, 18 Novembre 1905",
+        "28561": "Richard III\nMakers of History",
+        "19973": "The Mabinogion Vol. 2",
+        "19972": "Histoire de Napol\u00e9on et de la Grande-Arm\u00e9e pendant l'ann\u00e9e 1812\nTome I",
+        "272": "An Open Letter on Translating",
+        "273": "The Smalcald Articles",
+        "274": "Disputation of Doctor Martin Luther on the Power and Efficacy of Indulgences",
+        "275": "The Augsburg Confession\r\nThe confession of faith, which was submitted to His Imperial Majesty Charles V at the diet of Augsburg in the year 1530",
+        "19975": "Base-Ball\r\nHow to Become a Player, With the Origin, History and Explanation of the Game",
+        "19974": "Verdades amargas\nestudo politico dedicado \u00e0s classes que pensam, que possuem\ne que trabalham",
+        "16705": "A Wanderer in Venice",
+        "16704": "Adventures in Southern Seas: A Tale of the Sixteenth Century",
+        "19979": "A Righte Merrie Christmasse: The Story of Christ-Tide",
+        "16706": "A Sixth-Century Fragment of the Letters of Pliny the Younger\nA Study of Six Leaves of an Uncial Manuscript Preserved\nin the Pierpont Morgan Library New York",
+        "16701": "Het Leven der Dieren: Deel 1, Hoofdstuk 01: De Apen",
+        "16700": "The Ancient Church: Its History, Doctrine, Worship, and Constitution",
+        "16703": "A Comedy of Masks: A Novel"
+    },
+    "back_cover": {
+        "17382": {
+            "rights_url": "http://creativecommons.org/about/pdm",
+            "image_path": "17382/17382-h/images/illo_png4.jpg",
+            "cover_type": "archival_back",
+            "rights": "Public domain in the USA."
+        },
+        "17764": {
+            "rights_url": "http://creativecommons.org/about/pdm",
+            "image_path": "17764/17764-h/images/back.jpg",
+            "cover_type": "archival_back",
+            "rights": "Public domain in the USA."
+        }
+    },
+    "physical_description_note": {
+        "23037": "4 p.l., 128 p. 18 x 12 cm.",
+        "16264": " with 8 diagrams",
+        "15660": "2 p.l., iii, 210 p. front., plates. 18 cm.",
+        "23093": "4 p.l., 95 p. incl. front., plates. 18 cm.",
+        "6871": "Musical score"
+    },
+    "subjects": {
+        "50088": [
+            [
+                "lcsh",
+                "Lawyers -- Fiction"
+            ],
+            [
+                "lcsh",
+                "Courtship -- Fiction"
+            ],
+            [
+                "lcsh",
+                "Americans -- Italy -- Fiction"
+            ],
+            [
+                "lcsh",
+                "Mate selection -- Fiction"
+            ],
+            [
+                "lcc",
+                "PS"
+            ]
+        ],
+        "3480": [
+            [
+                "lcsh",
+                "English drama (Comedy)"
+            ],
+            [
+                "lcc",
+                "PR"
+            ]
+        ],
+        "11542": [
+            [
+                "lcc",
+                "AP"
+            ],
+            [
+                "lcsh",
+                "Popular literature -- Great Britain -- Periodicals"
+            ]
+        ],
+        "11543": [
+            [
+                "lcsh",
+                "Popular literature -- Great Britain -- Periodicals"
+            ],
+            [
+                "lcc",
+                "AP"
+            ]
+        ],
+        "11540": [
+            [
+                "lcc",
+                "AP"
+            ],
+            [
+                "lcsh",
+                "Popular literature -- Great Britain -- Periodicals"
+            ]
+        ],
+        "11541": [
+            [
+                "lcc",
+                "AP"
+            ],
+            [
+                "lcsh",
+                "Popular literature -- Great Britain -- Periodicals"
+            ]
+        ],
+        "11546": [
+            [
+                "lcc",
+                "PS"
+            ],
+            [
+                "lcsh",
+                "Stillman, William James, 1828-1901"
+            ],
+            [
+                "lcsh",
+                "Journalists -- Biography"
+            ]
+        ],
+        "11547": [
+            [
+                "lcc",
+                "E011"
+            ],
+            [
+                "lcsh",
+                "Indians of North America -- Folklore"
+            ],
+            [
+                "lcsh",
+                "Siksika Indians -- Folklore"
+            ],
+            [
+                "lcsh",
+                "Tales -- Great Plains"
+            ]
+        ],
+        "11544": [
+            [
+                "lcsh",
+                "Slavery -- Arkansas"
+            ],
+            [
+                "lcsh",
+                "African Americans -- Arkansas -- Biography"
+            ],
+            [
+                "lcsh",
+                "Slave narratives -- Arkansas"
+            ],
+            [
+                "lcsh",
+                "Slaves -- Arkansas -- Biography"
+            ],
+            [
+                "lcc",
+                "E300"
+            ],
+            [
+                "lcsh",
+                "Slaves -- Arkansas -- Social conditions"
+            ]
+        ],
+        "11545": [
+            [
+                "lcc",
+                "E151"
+            ],
+            [
+                "lcsh",
+                "United States -- Description and travel"
+            ]
+        ],
+        "11548": [
+            [
+                "lcsh",
+                "American literature -- Periodicals"
+            ],
+            [
+                "lcsh",
+                "Literature -- Periodicals"
+            ],
+            [
+                "lcc",
+                "AP"
+            ]
+        ],
+        "11549": [
+            [
+                "lcsh",
+                "Protestantism and literature"
+            ],
+            [
+                "lcsh",
+                "Novelists, American -- 19th century -- Biography"
+            ],
+            [
+                "lcsh",
+                "Women and literature -- United States -- History -- 19th century"
+            ],
+            [
+                "lcc",
+                "PS"
+            ],
+            [
+                "lcsh",
+                "Prentiss, E. (Elizabeth), 1818-1878"
+            ]
+        ],
+        "5988": [
+            [
+                "lcc",
+                "PQ"
+            ],
+            [
+                "lcsh",
+                "Tales, Medieval"
+            ],
+            [
+                "lcsh",
+                "Romances"
+            ],
+            [
+                "lcsh",
+                "French literature -- To 1500 -- Translations into English"
+            ]
+        ],
+        "5989": [
+            [
+                "lcsh",
+                "Camping -- Juvenile fiction"
+            ],
+            [
+                "lcsh",
+                "Brothers and sisters -- Juvenile fiction"
+            ],
+            [
+                "lcsh",
+                "Grandfathers -- Juvenile fiction"
+            ],
+            [
+                "lcsh",
+                "Islands -- Juvenile fiction"
+            ],
+            [
+                "lcc",
+                "PZ"
+            ]
+        ],
+        "19399": [
+            [
+                "lcsh",
+                "Children's literature -- Periodicals"
+            ],
+            [
+                "lcsh",
+                "Children's periodicals, American"
+            ],
+            [
+                "lcc",
+                "PZ"
+            ]
+        ],
+        "51541": [
+            [
+                "lcsh",
+                "Guiney, Louise Imogen, 1861-1920"
+            ],
+            [
+                "lcc",
+                "PS"
+            ]
+        ],
+        "5982": [
+            [
+                "lcsh",
+                "Fiction"
+            ],
+            [
+                "lcsh",
+                "Short stories"
+            ],
+            [
+                "lcc",
+                "PS"
+            ]
+        ],
+        "5983": [
+            [
+                "lcc",
+                "KJ"
+            ],
+            [
+                "lcsh",
+                "Roman law"
+            ]
+        ],
+        "5980": [
+            [
+                "lcsh",
+                "Cape Cod (Mass.) -- Fiction"
+            ],
+            [
+                "lcc",
+                "PS"
+            ],
+            [
+                "lcsh",
+                "Americans -- Europe -- Fiction"
+            ]
+        ],
+        "5981": [
+            [
+                "lcsh",
+                "Boy Scouts -- Juvenile fiction"
+            ],
+            [
+                "lcsh",
+                "World War, 1914-1918 -- Juvenile fiction"
+            ],
+            [
+                "lcc",
+                "PZ"
+            ]
+        ],
+        "5986": [
+            [
+                "lcsh",
+                "Religious fiction"
+            ],
+            [
+                "lcc",
+                "PR"
+            ]
+        ],
+        "5987": [
+            [
+                "lcsh",
+                "Spain -- History -- Carlist War, 1833-1840 -- Fiction"
+            ],
+            [
+                "lcc",
+                "PR"
+            ]
+        ],
+        "5984": [
+            [
+                "lcsh",
+                "Constitutional law -- Canada"
+            ],
+            [
+                "lcc",
+                "JL"
+            ]
+        ],
+        "5985": [
+            [
+                "lcsh",
+                "French literature -- 18th century"
+            ],
+            [
+                "lcsh",
+                "Manners and customs -- Fiction"
+            ],
+            [
+                "lcc",
+                "PQ"
+            ],
+            [
+                "lcsh",
+                "Political fiction, French"
+            ]
+        ],
+        "53900": [
+            [
+                "lcc",
+                "UA"
+            ],
+            [
+                "lcsh",
+                "Great Britain. Army. Queen's Own Hussars, 7th"
+            ]
+        ],
+        "53901": [
+            [
+                "lcsh",
+                "Children's stories"
+            ],
+            [
+                "lcsh",
+                "Fantasy fiction"
+            ],
+            [
+                "lcsh",
+                "Mermaids -- Juvenile fiction"
+            ],
+            [
+                "lcc",
+                "PZ"
+            ]
+        ],
+        "28567": [
+            [
+                "lcc",
+                "PR"
+            ],
+            [
+                "lcsh",
+                "University of Oxford -- Fiction"
+            ]
+        ],
+        "57483": [
+            [
+                "lcsh",
+                "Napoleon I, Emperor of the French, 1769-1821 -- Portraits, caricatures, etc."
+            ],
+            [
+                "lcc",
+                "DC"
+            ]
+        ],
+        "57482": [
+            [
+                "lcc",
+                "CT"
+            ],
+            [
+                "lcsh",
+                "Biography -- Juvenile literature"
+            ],
+            [
+                "lcsh",
+                "Manners and customs -- Juvenile literature"
+            ],
+            [
+                "lcc",
+                "D"
+            ]
+        ],
+        "57485": [
+            [
+                "lcsh",
+                "Indexes"
+            ],
+            [
+                "lcc",
+                "PR"
+            ]
+        ],
+        "57484": [
+            [
+                "lcsh",
+                "New South Wales -- Description and travel"
+            ],
+            [
+                "lcsh",
+                "Australia -- Social conditions -- 1788-1900"
+            ],
+            [
+                "lcsh",
+                "Lambert, Kathleen"
+            ],
+            [
+                "lcc",
+                "DU"
+            ],
+            [
+                "lcsh",
+                "Australia -- Social life and customs -- 1788-1900"
+            ]
+        ],
+        "36709": [
+            [
+                "lcsh",
+                "German fiction -- Translations into English"
+            ],
+            [
+                "lcc",
+                "PT"
+            ]
+        ],
+        "46139": [
+            [
+                "lcc",
+                "GV"
+            ],
+            [
+                "lcsh",
+                "Clowns"
+            ],
+            [
+                "lcsh",
+                "Turnour, Jules, -1931"
+            ]
+        ],
+        "46138": [
+            [
+                "lcsh",
+                "English drama -- 19th century"
+            ],
+            [
+                "lcsh",
+                "Comedies"
+            ],
+            [
+                "lcc",
+                "PR"
+            ]
+        ],
+        "46137": [
+            [
+                "lcc",
+                "AP"
+            ],
+            [
+                "lcsh",
+                "Illustrated periodicals -- France"
+            ]
+        ],
+        "46136": [
+            [
+                "lcc",
+                "GT"
+            ],
+            [
+                "lcsh",
+                "Fans"
+            ]
+        ],
+        "46135": [
+            [
+                "lcc",
+                "PT"
+            ],
+            [
+                "lcsh",
+                "Poetry"
+            ]
+        ],
+        "36708": [
+            [
+                "lcc",
+                "BX"
+            ],
+            [
+                "lcsh",
+                "Lisieux (France) -- Biography"
+            ],
+            [
+                "lcsh",
+                "Th\u00e9r\u00e8se, de Lisieux, Saint, 1873-1897"
+            ],
+            [
+                "lcsh",
+                "Christian saints -- France -- Lisieux -- Biography"
+            ]
+        ],
+        "46133": [
+            [
+                "lcsh",
+                "Love stories"
+            ],
+            [
+                "lcsh",
+                "Psychological fiction"
+            ],
+            [
+                "lcsh",
+                "Scotland -- Fiction"
+            ],
+            [
+                "lcsh",
+                "Historical fiction"
+            ],
+            [
+                "lcc",
+                "PR"
+            ],
+            [
+                "lcsh",
+                "Women murderers -- Fiction"
+            ],
+            [
+                "lcsh",
+                "Arranged marriage -- Fiction"
+            ]
+        ],
+        "46132": [
+            [
+                "lcsh",
+                "Great Britain -- History -- Wars of the Roses, 1455-1485"
+            ],
+            [
+                "lcc",
+                "DA"
+            ]
+        ],
+        "46131": [
+            [
+                "lcsh",
+                "Great Britain. Army. Queen's Own Royal West Kent Regiment"
+            ],
+            [
+                "lcc",
+                "DA"
+            ],
+            [
+                "lcsh",
+                "Peninsular War, 1807-1814 -- Personal narratives, British"
+            ]
+        ],
+        "46130": [
+            [
+                "lcc",
+                "B"
+            ],
+            [
+                "lcsh",
+                "Locke, John, 1632-1704"
+            ]
+        ],
+        "36707": [
+            [
+                "lcc",
+                "PZ"
+            ],
+            [
+                "lcsh",
+                "Short stories"
+            ],
+            [
+                "lcsh",
+                "Children's stories"
+            ]
+        ],
+        "36706": [
+            [
+                "lcc",
+                "AP"
+            ],
+            [
+                "lcsh",
+                "Illustrated periodicals -- France"
+            ]
+        ],
+        "28561": [
+            [
+                "lcsh",
+                "Great Britain -- History -- Richard III, 1483-1485"
+            ],
+            [
+                "lcc",
+                "DA"
+            ],
+            [
+                "lcsh",
+                "Richard III, King of England, 1452-1485"
+            ]
+        ],
+        "19973": [
+            [
+                "lcsh",
+                "Tales -- Wales"
+            ],
+            [
+                "lcsh",
+                "Mythology, Celtic -- Wales"
+            ],
+            [
+                "lcsh",
+                "Welsh literature -- 1100-1400 -- Translations into English"
+            ],
+            [
+                "lcc",
+                "PB"
+            ]
+        ],
+        "19972": [
+            [
+                "lcc",
+                "DC"
+            ],
+            [
+                "lcsh",
+                "Napoleonic Wars, 1800-1815 -- Personal narratives, French"
+            ],
+            [
+                "lcsh",
+                "Napoleonic Wars, 1800-1815 -- Campaigns -- Russia"
+            ],
+            [
+                "lcsh",
+                "Napoleon I, Emperor of the French, 1769-1821 -- Contemporaries"
+            ]
+        ],
+        "272": [
+            [
+                "lcc",
+                "BR"
+            ],
+            [
+                "lcsh",
+                "Bible -- Translating"
+            ],
+            [
+                "lcsh",
+                "Reformation -- Germany"
+            ]
+        ],
+        "273": [
+            [
+                "lcsh",
+                "Lutheran Church -- Doctrines -- Early works to 1800"
+            ],
+            [
+                "lcsh",
+                "Lutheran Church -- Relations -- Catholic Church -- Early works to 1800"
+            ],
+            [
+                "lcsh",
+                "Lutheran Church -- Creeds -- Early works to 1800"
+            ],
+            [
+                "lcc",
+                "BX"
+            ],
+            [
+                "lcsh",
+                "Catholic Church -- Relations -- Lutheran Church -- Early works to 1800"
+            ]
+        ],
+        "274": [
+            [
+                "lcsh",
+                "Reformation -- Germany -- Sources"
+            ],
+            [
+                "lcsh",
+                "Indulgences"
+            ],
+            [
+                "lcc",
+                "BR"
+            ]
+        ],
+        "275": [
+            [
+                "lcsh",
+                "Theology, Doctrinal"
+            ],
+            [
+                "lcc",
+                "BX"
+            ],
+            [
+                "lcsh",
+                "Lutheran Church -- Doctrines"
+            ]
+        ],
+        "19975": [
+            [
+                "lcc",
+                "GV"
+            ],
+            [
+                "lcsh",
+                "Baseball"
+            ]
+        ],
+        "19974": [
+            [
+                "lcsh",
+                "Portugal -- Politics and government -- 1861-1889"
+            ],
+            [
+                "lcc",
+                "DP"
+            ]
+        ],
+        "16705": [
+            [
+                "lcsh",
+                "Art -- Italy -- Venice"
+            ],
+            [
+                "lcsh",
+                "Venice (Italy) -- Description and travel"
+            ],
+            [
+                "lcc",
+                "DG"
+            ]
+        ],
+        "16704": [
+            [
+                "lcc",
+                "PR"
+            ],
+            [
+                "lcsh",
+                "Oceania -- Discovery and exploration -- Dutch -- Fiction"
+            ]
+        ],
+        "19979": [
+            [
+                "lcsh",
+                "Christmas -- History"
+            ],
+            [
+                "lcc",
+                "GT"
+            ]
+        ],
+        "16706": [
+            [
+                "lcsh",
+                "Pliny, the Younger -- Correspondence"
+            ],
+            [
+                "lcsh",
+                "Manuscripts, Latin -- Facsimiles"
+            ],
+            [
+                "lcsh",
+                "Paleography, Latin"
+            ],
+            [
+                "lcsh",
+                "Manuzio, Aldo, 1449 or 50-1515"
+            ],
+            [
+                "lcc",
+                "PA"
+            ]
+        ],
+        "16701": [
+            [
+                "lcc",
+                "QL"
+            ],
+            [
+                "lcsh",
+                "Animals"
+            ]
+        ],
+        "16700": [
+            [
+                "lcc",
+                "BR"
+            ],
+            [
+                "lcsh",
+                "Church history -- Primitive and early church, ca. 30-600"
+            ]
+        ],
+        "16703": [
+            [
+                "lcc",
+                "PR"
+            ],
+            [
+                "lcsh",
+                "Fiction"
+            ]
+        ]
+    },
+    "edition_note": {
+        "58838": "Translation of: Konungens ring, Sv\u00e4rdet och plogen, and Eld och vatten.",
+        "22622": "4.\u00ba Milhar",
+        "1209": "(See also #1323, a slightly different version with footnotes)",
+        "57563": "Sixth edition",
+        "1323": "(See also #1209, a slightly different version without footnotes)",
+        "12894": "Revised Edition",
+        "22508": "Quinta edi\u00e7\u00e3o, correcta de muitos erros, e augmentada com\r\na brilhante scena da coroa\u00e7\u00e3o",
+        "15622": "Second Edition, Revised and Enlarged, under title \"A Handbook on Japanning\"\u2014January, 1913",
+        "21829": "Revised Edition,\r\nWith Numerous Additions and Illustrative Engravings",
+        "23400": "2.\u00aa edi\u00e7\u00e3o",
+        "8300": "Challoner's revised Douay-Rheims Version (Old Testament 1609 & 1610, New Testament 1582). The Whole Revised and Diligently Compared with the Latin Vulgate by Bishop Richard Challoner A.D. 1749-1752",
+        "21581": "2\u00aa edi\u00e7\u00e3o",
+        "21684": "1\u00aa edi\u00e7\u00e3o",
+        "23851": "Separata do Boletim da Real Associa\u00e7\u00e3o dos Architectos Civis e Archelogos Portuguezes",
+        "23919": "Nova Edi\u00e7\u00e3o Revista e Prefaciada pelo Dr. M\u00e1ximiano De Lemos",
+        "1582": "Challoner's revised Douay-Rheims Version (New Testament 1582). The Whole Revised and Diligently Compared with the Latin Vulgate by Bishop Richard Challoner A.D. 1749-1752",
+        "18039": "Eighty-Ninth edition",
+        "21406": "Segunda Edi\u00e7\u00e3o",
+        "1581": "Challoner's revised Douay-Rheims Version (Old Testament 1609 & 1610, New Testament 1582). The Whole Revised and Diligently Compared with the Latin Vulgate by Bishop Richard Challoner A.D. 1749-1752",
+        "1610": "Challoner's revised Douay-Rheims Version (Old Testament 1609 & 1610). The Whole Revised and Diligently Compared with the Latin Vulgate by Bishop Richard Challoner A.D. 1749-1752",
+        "30155": "Revised edition",
+        "21287": "Edi\u00e7\u00e3o Popular\r\nDecima Segunda Edi\u00e7\u00e3o",
+        "16387": "35th American, from the 23d English ed.",
+        "2704": "Abraham Lincoln Edition",
+        "60271": "2nd edition, revised and enlarged. With articles by Prof. Einstein, Prof. J.S. Ames ... Sir Frank Dyson ... Prof. A.S. Eddington ... and Sir J.J. Thomson ...",
+        "17503": "2\u00aa edi\u00e7\u00e3o",
+        "766": "The Charles Dickens Edition",
+        "31246": "Fourth Edition",
+        "21209": "Terceira edi\u00e7\u00e3o",
+        "16248": "3rd edition, revised and enlarged",
+        "20574": "Terceira Edi\u00e7\u00e3o emendada e precedida d'um Prefacio",
+        "22742": "Primeira Serie",
+        "13376": "5th ed.",
+        "16441": "Newly Edited, with Introduction, Notes, and Glossary, by Anne Macdonell",
+        "57180": "New and Enlarged Edition",
+        "23620": "Ano I--1915 N.\u00ba1 Janeiro-Fevereiro-Mar\u00e7o",
+        "23621": "Ano I--1915 N.\u00ba 2 Abril-Maio-Junho",
+        "1609": "Challoner's revised Douay-Rheims Version (Old Testament 1609 & 1610). The Whole Revised and Diligently Compared with the Latin Vulgate by Bishop Richard Challoner A.D. 1749-1752",
+        "36012": "Second Edition, Revised",
+        "22730": "Edi\u00e7\u00e3o de Almada-Negreiros",
+        "23687": "Segunda edi\u00e7\u00e3o, emendada",
+        "39667": "F\u00fcnfte Auflage von Zwei Jahre Mord (13. bis 18. Tausend)",
+        "23203": "2.\u00aa edi\u00e7\u00e3o",
+        "44376": "Third Edition",
+        "20581": "Nova edic\u00e7\u00e3o",
+        "29435": "Quarta edi\u00e7\u00e3o",
+        "29417": "Segunda edi\u00e7\u00e3o",
+        "22977": "Quarta edi\u00e7\u00e3o",
+        "40037": "Sixth Edition"
+    },
+    "description": {
+        "19711": "Translation of: Le temple enseveli",
+        "55610": "Also published with the title: Principles of social reconstruction.",
+        "55343": "Also published as: Secrets of the Bosphorus, see #55421.",
+        "4022": "HTML file",
+        "4028": "These are 7- and 8-bit ASCII versions, and 7clln10h.htm and .zip is HTML",
+        "18242": "Illustrations from the second (1899) edition",
+        "21636": "Images of the original pages are available through the International Children's Digital Library. See \r\nhttp://www.childrenslibrary.org/icdl/BookPreview?bookid=cupbluf_00360203&route=text",
+        "19158": "There is an improved edition of this title, eBook #18855",
+        "3999": "Translation of Un philosophe sous les toits.",
+        "3998": "Translation of Un philosophe sous les toits.",
+        "3997": "Translation of Un philosophe sous les toits.",
+        "3996": "Translation of Un philosophe sous les toits.",
+        "32305": "Translation of King Lear",
+        "19372": "Translation of: The Dead Alive",
+        "43874": "Illustrated by the author.",
+        "52265": "See also #52042.",
+        "6150": "Project Gutenberg has several editions of this eBook:\r\n#22382  (With 800 linked footnotes)\r\n#16452  (In blank verse, Many footnotes.)\r\n#2199   (No footnotes or illustrations)\r\n#6130   (Many line drawings, and 300 footnotes)\r\n#3059   (Text file)\r\n#6150   (Text file)",
+        "30155": "See also PG#5001",
+        "42454": "Parallel lives - Volume 1",
+        "27375": "Parody of A.S.M. Hutchinson's If winter comes.",
+        "2318": "Translation of: Les contes dr\u00f4latiques\r\nSee also: Vol 1: #1925, Vol 3: #2551, and the complete work #13260",
+        "30442": "Translation of: Lettres de mon moulin",
+        "10969": "There is an improved edition of this title, eBook #55472",
+        "4938": "inagu10m.zip file has each address in a seperate file.",
+        "56127": "Illustrated by the author.",
+        "55581": [
+            "v. 1. Official documents; v. 2-22. Proceedings; v. 23. Chronological index, subject index; v. 24. Document index, name index, and errata; v. 25-42. Documents and other material in evidence.",
+            "Trial against H.W. G\u00f6ring, R. Hess, J. von Ribbentrop, R. Ley, W. Keitel, E. Kaltenbrunner, A. Rosenberg, H. Frank, W. Frick, J. Streicher, W. Funk, H. Schacht, G. Krupp von Bohlen und Halbach, K. D\u00f6nitz, E. Raeder, B. von Schirach, F. Sauckel, A. Jodl, M. Bormann, F. von Papen, A. Seyss-Inquart, A. Speer, C. von Neurath, and H. Fritzsche, individually and as members of any groups or organizations to which they belonged."
+        ],
+        "60135": "\"Illustrated from original photographs by the author and C. R. Birt.\"",
+        "3777": "PRC version is in 10tom10p.prc and 10tom10p.zip",
+        "56053": "Another version of this eBook is available in the collection at https://www.gutenberg.org/ebooks/58716",
+        "270": "Sequel to \"The Golden Age.\"",
+        "36203": "Abridged translation of: J\u0151 a Tat\u00e1r.",
+        "16250": "The German text is not included in this eBook.",
+        "274": "Martin Luther's 95 Theses.",
+        "276": "MIDI file",
+        "13549": "Translation of: Pr\u00e9cis de l'art de la guerre",
+        "26157": "Adapted by Arthur Shirley from Les trois chapeaux by Hennequin.",
+        "57619": "Illustrated by the author.",
+        "2268": "There is an improved edition of this title, eBook #100",
+        "2269": "There is an improved edition of this title, eBook #1538",
+        "2262": "There is an improved edition of this title, eBook #100",
+        "52461": "Includes afterword on the 1906 San Francisco earthquake and fire.",
+        "2260": "There is an improved edition of this title, eBook #100",
+        "2261": "There is an improved edition of this title, eBook #1513",
+        "2267": "There is an improved edition of this title, eBook #1531",
+        "2264": "There is an improved edition of this title, eBook #1533",
+        "2265": "There is an improved edition of this title, eBook #100",
+        "46263": "Illustrated by the author.",
+        "17033": "Translation of selections from \"The Chimney-Corner\"",
+        "9250": "From: \"The Doliver Romance and Other Pieces: Tales and Sketches\"",
+        "46793": "Illustrated by the author.",
+        "34808": "Jean Rudolph Wyss is credited as author on title page of this edition, but his father Johann David Wyss is more commonly listed as author. http://en.wikipedia.org/wiki/The_Swiss_Family_Robinson",
+        "60000": "Volume 1: Mammals.",
+        "7862": "The Civil War Series, Volume 4",
+        "22901": "Translation of: Brudstykker af en Landsbydegns Dagbog",
+        "57180": "Mainly a criticism of the editorial methods of leading American magazines.",
+        "57182": "Des huit nouvelles r\u00e9unies dans ce volume, quatre: \u00abL'\u00c9ch\u00e9ance\u00bb, \u00abLendemain\u00bb, \u00abLe Confessionnal\u00bb, \u00abLe Verdict\u00bb ont \u00e9t\u00e9 traduites de l'anglais par Mme Jeanne Chalen\u00e7on. Mme la baronne Jean de Bail a traduit \u00abLes Deux Autres\u00bb, Mme M. P. B. \u00abla Trag\u00e9die de la Muse\u00bb, et M. Alfred de Saint-Andr\u00e9 \u00abL'Ermite et la Femme sauvage\u00bb. Quant \u00e0 la premi\u00e8re de ces nouvelles: \u00abLes Metteurs en sc\u00e8ne\u00bb, elle a \u00e9t\u00e9 \u00e9crite en fran\u00e7ais par l'auteur.",
+        "50358": "\"Edited [or rather, written] ... by H. Miles and R. Mortimer.\"--Brit. Mus. Cat. acc.",
+        "2044": "HTML",
+        "16816": "\u00c9dition accompagn\u00e9e d'une traduction en vers\r\nPr\u00e9c\u00e9d\u00e9e d'une introduction, Notices historiques et critiques; suivie de notes et d'un glossaire",
+        "26027": "Project Gutenberg has several editions of this eBook:\r\n#15976  (Illustrated in Black and White)\r\n#26027  (Illustrated in Color)"
+    },
+    "series_note": {
+        "35542": "United States. Dept. of Agriculture. Farmers' Bulletin No. 896",
+        "44695": "Famous Scots Series, 29",
+        "58381": "The Aeroplane Boys Series, no. 6",
+        "48119": "Early western travels, 1748-1846, v. 10",
+        "58384": "Williamsburg craft series",
+        "42876": "Masterpieces in Colour",
+        "57941": "War Department Technical Manual TM 5-362",
+        "47125": "History for young readers",
+        "43375": "Machinery's Reference Series Number 21",
+        "35621": "The Works of Voltaire, A Contemporary Version, Vol. 5",
+        "53563": "Bell's English History Source Books",
+        "35623": "The Works of Voltaire, A Contemporary Version, Vol. 7",
+        "45805": "Early English Dramatists",
+        "35625": "The Works of Voltaire, A Contemporary Version, Vol. 9",
+        "35624": "The Works of Voltaire, A Contemporary Version, Vol. 8",
+        "49839": "Bell's English History Source Books",
+        "11268": "Old Testament scenes and narratives",
+        "12523": "Chronicles of America series; v. 04",
+        "24164": "Primeiro das Viagens",
+        "21406": "Obras de Camillo Castello Branco\r\nEdi\u00e7\u00e3o Popular\r\nXVII",
+        "39716": "Little Masterpieces",
+        "48898": "Marines in World War II, Commemorative Series",
+        "48899": "Marines in World War II, Commemorative Series",
+        "51065": "The History and Romance of Crime",
+        "37590": "Recuerdos y bellezas de Espa\u00f1a",
+        "37041": "University of Illinois Agricultural Experiment Station, Bulletin 621",
+        "37595": "USDA Forest Service Research Paper NC-52",
+        "18816": "Blue and the Gray--Afloat, book 4",
+        "60213": "Bell's handbooks to continental churches.",
+        "46110": "Early western travels, 1748-1846, v. 18",
+        "41798": "Masterpieces in Colour",
+        "55534": "The Aeroplane Boys Series, no. 3",
+        "29853": "Chronicles of America series; v. 06",
+        "59091": "The art of life series",
+        "59092": "Yellowstone interpretive series, no. 7",
+        "18678": "Blue and the Gray--Afloat, book 6",
+        "56231": "The \"B. O. W. C.\" Series",
+        "43873": "Living masters of music",
+        "59097": "K\u00fcnstler-Monographien: XIII",
+        "58255": "Play School Series",
+        "41497": "Masterpieces in Colour",
+        "54285": "Memorias de un hombre de acci\u00f3n, tomo 11",
+        "58318": "Williamsburg craft series",
+        "54280": "A technical history of costumes",
+        "41492": "Masterpieces in Colour",
+        "48740": "Handbooks of practical gardening, 4",
+        "53482": "The Daily Telegraph War Books",
+        "58709": "The Aeroplane Boys Series, no. 7",
+        "57935": "National Park Service Historical Handbook Series, No. 21",
+        "24551": "Beautiful England",
+        "49070": "Understanding the atom",
+        "25508": "Fascination of London",
+        "57835": "National Park Service Historical Handbook Series No. 26",
+        "59192": "National Park Service Historical Handbook Series No. 22",
+        "3004": "Chronicles of America series; v. 15",
+        "57725": "[U.S.] National Park Service. Historical handbook series, no. 34",
+        "46946": "United States. National Park Service. Historical handbook series, no. 36",
+        "6069": "The Pony Rider Boys, number 4",
+        "27572": "Beautiful England",
+        "51608": "Biff Brewster mystery adventure, 2"
+    },
+    "tableOfContents": {
+        "35544": "Henry II. -- Roger Bacon -- Edward III. -- Wicliffe -- Chaucer -- William of Wykeham.",
+        "5988": "The tale of King Coustans the emperor -- The friendship of Amis and Amile -- The tale of King Florus and the fair Jehane -- The history of over sea.",
+        "55294": "The first part of Nero -- Achilles in Scyros -- Notes.",
+        "51266": "La B\u00e9casse -- Ce cochon de Morin -- La folle -- Pierrot -- Menuet -- La peur -- Farce normande -- Les sabots -- La rempailleuse -- En mer -- Un Normand -- Le testament -- Aux champs -- Un coq chanta -- Un fils -- Saint-Antoine -- L'aventure de Walter Schnaffs -- La tombe (in\u00e9dit) -- Notes d'un voyageur (in\u00e9dit).",
+        "19393": "The Compromise of the King of the Golden Isles\r\nThe Flight of the Queen\r\nCheezo\r\nA Good Bargain\r\nIf Shakespeare Lived To-day\r\nFame and the Poet.",
+        "19392": "The origin of tea -- Tea [poem] / by Francis Saltus Saltus -- little cups of Chinese and Japanese tea -- On tea [poem] / by Edmund Waller -- Some English tea history -- O tea! [poem] / Arthur Gray -- Tea terms (Japanese. Chinese) -- Tea leaves / by John Ernest McCann -- Wit, wisdom and humor of tea -- Fate / Churchill -- Tea making and taking in Japan and China -- Tea-drinking in other lands -- The tea-table -- Ladies, literature and tea -- On our English poetry and this poem upon tea / R. B. -- To the author on his poem upon tea / T. W. -- Poems from J. Roberts pamphlet (London, 1700) -- Dr. Johnson's affinity -- Earliest mention of tea -- Australian tea -- Five o'clock tea -- Tea in ladies' novels -- Sydney Smith -- Dr. Johnson again -- A cup of tea [poem] / Helen Gray Cone.",
+        "48890": "Preface -- Introduction -- The Chassidim -- Nachman Krochmal and the \"Perplexities of the time\" -- Rabbi Elijah Wilna, Gaon -- Nachmanides -- A Jewish Boswell -- The dogmas of Judaism -- The history of Jewish tradition -- The doctrine of divine retribution in rabbinical literature -- The law and recent criticism -- The Hebrew collection of the British museum -- Titles of Jewish books -- The child in Jewish literature -- Woman in temple and synagogue -- The earliest Jewish community in Europe.",
+        "48897": "Preface -- The frontiersman -- Daniel Morgan -- James Harrod -- Robert McLellan -- Colonel Benjamin Logan -- George Rogers Clarke -- John Slover -- Lewis Wetzel -- Samuel Colter -- Meshack Browning -- \"Bill\" Bent -- Thomas Eddie -- Jim Bridger -- \"Old Bill\" Williams -- \"Big Foot\" Wallace -- Captain Jack Hays -- Bill Hamilton -- Uncle Job Witherspoon -- Henry Shane -- Poor Jerry Lane -- The song of the moose -- Retrospect.",
+        "25062": "I. Introduction -- II. The Neapolitan earthquake of December 16th, 1857 -- III. The Ischian earthquakes of March 4th, 1881, and July 28th, 1883 -- IV. The Andalusian earthquake of December 25th, 1884 -- V. The Charleston earthquake of August 31st, 1886 -- VI. The Riviera earthquake of February 23rd, 1887 -- VII. The Japanese earthquake of October 28th, 1891 -- VIII. The Hereford earthquake of December 17th, 1896, and the Inverness earthquake of September 18th, 1901 -- IX. The Indian earthquake of June 12th, 1897 -- X. Conclusion.",
+        "57481": "Why Britain went to war -- The sword of peace -- Hands off the people's food -- Concerning Mr. Maximilian Craft -- The most necessary measures in the world -- The need of a new map of Europe -- The opportunity of Liberalism -- The Liberal fear of Russia -- An appeal to the American people -- Common sense and the Balkan States -- The war of the mind.",
+        "27374": "A young man in a hurry -- A pilgrim -- The shining band -- One man in a million -- The fire-warden -- The market-hunter -- The path-master -- In Nauvoo -- Marlitt's shoes -- Pasque Florida.",
+        "27379": "Guy de Maupassant -- Andr\u00e9 Theuriet -- Marcel Pr\u00e9vost -- Paul Margueritte -- Gilbert Augustin-Thierry -- \u00c9douard Rod -- St\u00e9phane Mallarm\u00e9 -- Stanley -- Guillaume II -- Dom Pedro -- Renan -- Billets du matin.",
+        "36702": "Author's preface -- Foreword -- The baby's Baedeker: Abroad. United States of America. Great Britain. Scotland. Ireland. Wales. China. France. Germany. Holland. Iceland. Italy. Japan. Portugal. Russia. Spain. Switzerland. Turkey. Dreamland. Stageland. Loverland. Homeland -- Childish complaints: Prelude. Appendicitis. Whooping-cough. Measles. Adenoids. Croup -- Ruthless rhymes: Mother-wit. Uncle Joe. Aunt Eliza. Absent-mindedness. John. Baby. The cat -- Perverted proverbs: 'Virtue is its own reward.' 'Enough is as good as a feast.' 'Don't buy a pig in a poke.' 'Learn to take things easily.' 'A rolling stone gathers no moss.' 'It is never too late to mend.' 'A bad workman complains of his tools.' 'Don't look a gift-horse in the mouth.' Potpourri -- Other verses: Bill. The legend of the author. The motriot. The ballad of the artist. The ballad of ping-pong. The pessimist. The place where the old cleek broke. The homes of London. The happiest land. A London involuntary. Bluebeard. The woman with the dead soles. Rosemary (a ballad of the boudoir). Portknockie's porter. The ballad of the little jinglander. Aftword. Envoi.",
+        "16709": "L'Invitation au Sommeil -- Le Num\u00e9ro du R\u00e9giment -- L'Orgue de Barbarie -- Le Convalescent -- Oeuvres posthumes -- A Table -- Les Pommes cuites -- Lettres d'Amour -- Mariages manqu\u00e9s -- Jalousie -- Fille de Tristesse -- Les Sabots du petit Wolff.",
+        "51846": "Lukemattomien kivikirveiden p\u00e4\u00e4llikk\u00f6 -- Vanha Ane -- Adilsin kultasep\u00e4t -- Ingjald Ilke\u00e4mielinen -- Lodbrokin pojat -- Ansgarius -- Kilpineito -- Sigrid \u00c4veri\u00e4\u00e4n kosijat -- Arnljot J\u00e4llil\u00e4inen -- Kreikan kuninkaan talonvahti -- Vanha Sverker -- Vetehinen -- J\u00e4ttil\u00e4isnainen -- Eerikki Pyh\u00e4 ja vuoren lumokas -- Kuka oli vieraamme -- Birger Jaarli -- Hovan tappelu -- Torkkeli Nuutinpoika -- Nyk\u00f6pingin pidot -- Joulu-y\u00f6 Finnstadissa -- Maunu Liehakko -- Visby -- Kuningas Albrektin aikaan -- Engelbrekt -- Kaarle Nuutinpoika ja rotankesytt\u00e4j\u00e4 -- Pikku Sisar -- Brunke-vuoren tappelu -- Tarina paksusta p\u00e4\u00e4munkista ja Ljungbyn juomasarvesta ja pillist\u00e4 -- Vanhat lait, j\u00e4yk\u00e4t mielet -- Nuori herra Sten -- Tukholman veril\u00f6yly.",
+        "32014": "Meister Leonhard -- Das Grillenspiel -- Wie Dr. Hiob Paupersum seiner Tochter rote Rosen brachte  -- Amadeus Kn\u00f6dlseder, der unverbesserliche L\u00e4mmergeier -- J. H. Obereits Besuch bei den Zeit-egeln -- Der Kardinal Napellus -- Die vier Mondbr\u00fcder.",
+        "55839": "Tyburn tree -- Pillory and cart's tail -- State trials for witchcraft -- A pair of parricides -- Some disused roads to matrimony -- The border law -- The serjeant-at-law.",
+        "12011": "Monsieur Parent -- La b\u00eate \u00e0 Mait'Belhomme -- A vendre -- L'inconnue -- La confidence -- Le bapt\u00eame -- Imprudence -- Un fou -- Tribunaux rustiques -- L'\u00e9pingle -- Les b\u00e9casses -- En wagon -- \u00c7a ira -- D\u00e9couverte -- Solitude -- Au bord du lit -- Petit soldat.",
+        "26390": "The retreat of the ten thousand -- Napoleon's retreat from Moscow.",
+        "17250": "Where Grandfather Frog Got His Big Mouth -- Where Miser the Trade Rat First Set Up Shop -- Where Yap-Yap the Prairie Dog Used His Wits -- Where Yellow-Wing Got His Liking for the Ground -- Where Little Chief Learned To Make Hay -- Where Glutton the Wolverine Got His Name -- Where Old Mrs. 'Gator Made the First Incubator -- Where Mr. Quack Got His Webbed Feet  -- Where Thunderfoot the Bison Got His Hump -- Where Limberheels Got His Long Tail -- Where Old Mr. Gobbler Got the Strutting Habit -- Where Seek-Seek Got His Pretty Coat -- Where Old Mr. Osprey Learned To Fish -- Where Old Mr. Bob-Cat Left His Honor -- Where Dippy the Loon Got the Name of Being Crazy -- Where Big-Horn Got His Curved Horns.",
+        "26399": "Fairy prince -- The game of the be-witchments -- The blinded lady -- The gift of the probable places -- The book of the funny smells--and everything -- The little dog who couldn't sleep.",
+        "52466": "Geological revolutions -- Fossils -- Subterranean heat -- Subterranean upheavals and depressions -- Subterranean waters and artesian wells -- Volcanoes -- Destruction of Herculaneum and Pompeii -- Gas springs and mud volcanoes -- Earthquakes -- The great earthquake of Lisbon -- Landslips -- On caves in general -- Cave rivers -- Subterranean life -- Caves as places of refuge -- Hermit caves; rock temples; rock churches -- Ice-caves and wind-holes -- Rock tombs and catacombs -- Caves containing remains of extinct animals -- Subterranean relics of prehistoric man -- Troglodytes or cave-dwellers; cannibal caves -- Tunnels -- On mines in general -- Gold -- Silver -- Copper -- Tin -- Iron -- Lead -- Mercury -- The new metals -- Coal -- Bituminous substances -- Salt -- Sulphur -- Amber -- Miscellaneous mineral substances used in the industrial arts -- Celebrated quarries -- Precious stones.",
+        "46701": "Keidansky decides to leave the social problem unsolved for the present -- He defends the holy Sabbath -- Sometimes he is a Zionist -- Art for Tolstoy's sake -- \"Three stages of the game\" -- \"The badness of a good man\" -- \"The goodness of a bad man\" -- \"The feminine traits of men\" -- The value of ignorance -- Days of atonement -- Why the world is growing better -- Home, the last resort -- A Jewish jester -- What constitutes the Jew? -- The tragedy of humor -- The immorality of principles -- The exile of the earnest -- Why social reformers should be abolished -- Buying a book in Salem Street -- The purpose of immoral plays -- The poet and the problem -- \"My vacation on the East Side\" -- Our rivals in fiction -- On enjoying one's own writings.",
+        "10709": "The race of Orven -- The stone of the Edmundsbury monks -- The S.S.",
+        "10708": "On the knocking at the gate, in Macbeth -- Murder, considered as one of the fine arts -- Second paper on murder -- Joan of Arc -- The English mail-coach -- The vision of sudden death -- Dinner, real and reputed.",
+        "53731": "Der Persische Orden -- Die Simulanten -- Aus dem Tagebuch des zweiten Buchhalters -- Ein b\u00f6ser Junge -- Es war sie! -- Ein j\u00e4hzorniger Mensch -- Eine problematische Natur -- Intrigen.",
+        "46791": "The old couple -- A woman never vexed -- The ordinary -- The London Chanticleers -- The shepherds' holiday -- Fuimus Troes: The true Trojans -- The lost lady.",
+        "24880": "The wreck of the Titan -- The pirates -- Beyond the spectrum -- In the valley of the shadow.",
+        "21616": "The resurrection of little Wang Tai -- The hero of the plague --  His unconquerable enemy -- The permanent stiletto -- Over an absinthe bottle --  The inmate of the dungeon -- A game of honor -- Treacherous Velasco -- An uncommon view of it -- A story told by the sea -- The monster-maker -- An original revenge -- Two singular men -- The faithful amulet.",
+        "45119": "Avis de l'\u00e9diteur -- Biographie -- Guy de Maupassant, par Pol Neveux -- Correspondance (in\u00e9dit.) -- Boule de Suif -- Les Soir\u00e9es de M\u00e9dan (in\u00e9dit)\r\nAPPENDICE : La Main d'\u00e9corch\u00e9 (in\u00e9dit) -- Le Donneur d'eau b\u00e9nite (in\u00e9dit) -- \u00abCoco, Coco, Coco frais!\u00bb (in\u00e9dit) -- Le Mariage du lieutenant Lar\u00e9 (in\u00e9dit)\r\nVariantes -- Opinion de la Presse",
+        "26027": "Puck's song -- Weland's sword -- A tree song -- Young men at the manor -- Sir Richard's song -- Harp song of the Dane women -- The knights of the joyous venture -- Thorkild's song -- Old men at Pevensey -- The runes on Weland's sword -- A centurion of the Thirtieth -- A Britsh-Roman song -- On the great wall -- A song to Mithras -- The winged hats -- A Pict song -- Hal o' the draft -- A smuggler's song -- The bee boy's song -- 'Dymchurch Flit' -- A three-part song -- Song of the fifth river -- The treasure and the law -- The children's song.",
+        "45446": "Peregrinus and Columbus -- Norman and Gilbert -- Franklin and some contemporaries -- Galvani, discoverer of animal electricity -- Volta, the founder of electrical science -- Coulomb -- Hans Christian Oersted -- Andr\u00e9 Marie Amp\u00e8re -- Ohm, the founder of mathematical electricity -- Faraday -- Clerk Maxwell -- Lord Kelvin.",
+        "45445": "Johdanto -- Tekij\u00e4 lukijalle -- Joutilaisuudesta -- Erilaisista puhujalahjoista -- Ket\u00e4\u00e4n ei voi kehua onnelliseksi ennen h\u00e4nen kuolemaansa -- Kuoleman halveksimisesta -- Tottumuksen voimasta ja miksi en saisi liian helposti muuttaa hyv\u00e4ksytty\u00e4 lakia -- Kasvatuksesta -- La Bo\u00e9tien \"Vapaaehtoinen orjuus\" -- Yst\u00e4vyydest\u00e4 -- Voittoisat tappiot -- Cato runoilijain ylist\u00e4m\u00e4n\u00e4 -- Yksin\u00e4isyydest\u00e4 -- Tutkielmieni tyylist\u00e4 -- Kuinka k\u00e4sittelen aiheitani -- Rukouksista -- Tekojemme ep\u00e4johdonmukaisuudesta -- Is\u00e4st\u00e4ni -- Amyotin Plutarkhos-k\u00e4\u00e4nn\u00f6ksest\u00e4 -- Kidutuksesta -- Onko sallittua puhua itsest\u00e4\u00e4n -- Isien rakkaudesta lapsiinsa -- Eri kirjailijoista -- Julmuudesta -- Raimond de Sebondin puolustus -- Viiteselitykset.",
+        "45114": "The kingdom of the greedy / P. J. Stahl -- Thankful / Mary E. Wilkins Freeman -- Beetle Ring's Thanksgiving mascot / Sheldon C. Stoddard -- Mistress Esteem Elliott's molasses cake / Kate Upson Clark -- The first Thanksgiving / Albert F. Blaisdell and Francis K. Ball -- Thanksgiving at Todd's Asylum / Winthrop Packard -- How we kept Thanksgiving at Oldtown / Harriet Beecher Stowe -- Wishbone Valley / R. K. Munkittrick -- Patem's salmagundi / E. S. Brooks -- Miss November's dinner party / Agnes Carr -- The visit / Maud Lindsay -- The story of Ruth and Naomi / Adapted from the Bible -- Bert's Thanksgiving / J. T. Trowbridge -- A Thanksgiving story / Miss L. B. Pingree -- John Inglefield's Thanksgiving / Nathaniel Hawthorne -- How Obadiah brought about a Thanksgiving / Emily Hewitt Leland -- The white turkey's wing / Sophie Swett -- The Thanksgiving goose / Fannie Wilder Brown -- An English dinner of Thanksgiving / George Eliot -- A novel postman / Alice Wheildon -- Ezra's Thanksgivin' out west / Eugene Field -- Chip's Thanksgiving / Annie Hamilton Donnell -- The master of the harvest / Mrs. Alfred Gatty -- A Thanksgiving dinner / Edna Payson Brett -- Two old boys / Pauline Shackleford Colyar -- A Thanksgiving dinner that flew away / Hezekiah Butterworth -- Mon-daw-min / H. R. Schoolcraft -- A mystery in the kitchen / Olive Thorne Miller -- Who ate the dolly's dinner? / Isabel Gordon Curtis -- An old-fashioned Thanksgiving / Rose Terry Cooke -- 1800 and froze to death / C. A. Stephens.",
+        "41280": "Break between modern thought and ancient faith and worship / H.W. Bellows -- A true theology the basis of human progress / J.F. Clarke -- The rise and decline of the Romish church / A. Coquerel, fils -- Selfhood and sacrifice / O. Dewey -- The relation of Jesus to the present age / C.C. Everett -- The mythical element in the New Testament / F.H. Hedge -- The place of mind in nature and intuition in man / J. Martineau -- The relations of ethics and theology / A.P. Peabody -- Christianity: what it is not, and what it is / G.V. Smith -- The aim and hope of Jesus / O. Stearns.",
+        "44793": "Ilman kirkon siunausta -- H\u00e4nen oma aviovaimonsa -- Yli rajain -- Dungaran tuomio -- Lispeth -- Wee Willie Winkie -- Aurelianus Mc Gogginin k\u00e4\u00e4ntyminen -- Mennytt\u00e4 kalua -- Amorin nuolet -- Kahden kauppa \u2014 kolmannen korvapuusti -- Kuinka Pluffles pelastui -- Erehdys -- Suddhoon talossa -- Toinen mies -- Venus Annodomini.",
+        "44240": "Dutch taverns -- New York and the pirates -- The Coffee house -- The Black Horse -- The Merchants' coffee house -- Tavern signs -- The King's Arms -- Hampden hall -- The Province Arms -- Fraunces' tavern -- The Tontine coffee house -- The City hotel -- The Shakespeare tavern -- Road houses.",
+        "44795": "Aids to reflection -- Confessions of an inquiring spirit: letters on the inspiration of the scriptures -- Essay on faith -- Notes on the Book of common prayer -- A nightly prayer.",
+        "44794": "The beauty of the river -- The Oxford meadows -- The old town of Abingdon -- Dorchester and Sinodun Hill -- Castle and stronghold -- Twin villages -- A mitred abbot -- Sonning and its roses -- Wargrave and neighborhood -- Henley -- The romance of Bisham and Hurley -- Boulter's Lock and Maidenhead -- Windsor and Eton -- Magna Charta -- Penton Hook -- Weybridge and Chertsey -- The Londoner's zone -- The river at London -- Our national possession.",
+        "44245": "Preface -- The disappearance of Bathurst -- The Duchess of Kingston -- General Mallet -- Schweinichen's memoirs -- The locksmith Gamain -- Abram the usurer -- Sophie Apitzsch -- Peter Nielsen -- The wonder-working Prince Hohenlohe -- The snail telegraph -- The Countess Goerlitz -- A wax and honey-moon -- The Electress' plot -- Suess Oppenheim -- Ignatius Fessler.",
+        "42839": "Scaramouche -- Cecilia and Nanette, or, the accident -- Three chapters in the life of Nadir -- The mother and daughter -- The difficult duty: moral doubts -- New-year's night -- The Cur\u00e9 of Chavignat -- The double vow -- Poor Jos\u00e9 --Caroline; or, the effects of a misfortune.",
+        "46863": "The birth-time of the gods -- The Sun-Goddess -- The heavenly messengers -- Prince Ruddy-Plenty -- The Palace of the Ocean-Bed -- Autumn and spring -- The Star-Lovers -- The Island of Eternal Youth -- Rai-Taro, the son of the Thunder-God -- The souls of the children -- The moon-maiden -- The great fir tree of Takasago -- The willow of Mukochima -- The child of the forest -- The vision of Tsunu -- Princess Fire-Fly -- The sparrow's wedding -- The love of the snow-white fox -- Nedzumi -- Koma and Gon.",
+        "37794": "Filial hope -- Rest for the weary -- My beloved and friend -- Refuge in God -- Parental discipline -- Joy of the law -- Sojourning with God -- Building for immortality -- Wail of bereavement -- Wisdom and weapons -- Love tested -- Manifold temptations -- Contest and coronation -- Calvary token -- Heroism triumphant -- Fraternal forgiveness -- Christ with his ministers -- Kept from evil -- Contending for the faith -- The fruitless fig-tree -- Christian contentment -- \"Ye know the grace.\"",
+        "42836": "Introduction -- \u00c9mile Loubon et son temps -- Auguste Aiguier -- Gustave Ricard -- Adolphe Monticelli -- Paul Guigou.",
+        "42837": "Blind Alice -- Jessie Graham; or friends dear, but truth dearer -- Florence Arnott; or, is she generous? -- Grace and Clara; or, be just as well as generous -- Ellen Leslie; or, the reward of self-control.",
+        "38505": "Myriel -- Der gl\u00e4serne Garten.",
+        "2684": "The first and the last -- A stoic -- The apple tree -- The juryman -- Indian Summer of a Forsyte.",
+        "14625": "Chapter 1.  \tSchedules\r\n\r\nChapter 2. \tInfantry Drill Regulations\r\n\r\nChapter 3. \tPhysical Training\r\nVoice Culture\r\n\r\nChapter 4. \tUse of Modern Arms\r\n  \t1. S.A.F.M.\r\n  \t2. Range Practice.\r\n  \t3. Pistol.\r\n  \t4. Bayonet.\r\n  \t5. Machine Guns.\r\n  \t6. Grenade Instruction.\r\n\r\nChapter 5. \tMap Sketching\r\n\r\nChapter 6. \tArticles Of War. (Courts-Martial.)\r\n\r\nChapter 7. \tArmy Regulations\r\n\r\nChapter 8. \tPractice Marches\r\nField Work\r\n\r\nChapter 9. \tFeeding Men\r\nCamping And Camp Sanitation.\r\n\r\nChapter 10. \tPersonal Hygiene\r\n\r\nChapter 11. \tSignaling\r\n\r\nChapter 12. \tGuard Duty\r\n\r\nChapter 13. \tCompany Administration\r\n\r\nChapter 14. \tConferences\r\n  \tStudy.\r\n  \tSmall Problems in Infantry.\r\n  \tExaminations.\r\n\r\nChapter 15. \tTrench Warfare\r\n  \t1. General Principles.\r\n  \t2. Siting Trenches.\r\n  \t3. Construction.\r\n  \t4. Occupation.",
+        "99": "My escape from slavery --\u00ad Reconstruction.",
+        "38645": "Faces of Janus -- A woodland valentine -- Ways of the March hare -- The April moment -- The crest of spring -- Hay harvest time -- The month of yellow flowers -- The mood of August -- Summer pauses -- When the oaks wear damson -- November traits -- The Christmas woods -- Landscapes seen in dreams -- Hiding places -- The play of leaves -- The brown frontier -- Far altars.",
+        "94": "Alexander's bridge / Willa Cather -- The barrel organ / Alfred Noyes.",
+        "30419": "Introduction -- How men have formed libraries -- How to buy -- Public libraries -- Private libraries -- General bibliographies -- Special bibliographies -- Publishing societies -- Child's library -- One hundred books.",
+        "36154": "Clebsch -- Sophus Lie -- On the real shape of algebraic curves and surfaces -- Theory of functions and geometry -- On the mathematical character of space-intuition, and the relation of pure mathematics to the applied sciences -- The transcendency of the numbers e and \u03c0 [pi] -- Ideal numbers -- The solution of higher algebraic equations -- On some recent advances in hyperelliptic and Abelian functions -- The most recent researches in non-Euclidean geometry -- The study of mathematics at G\u00f6ttingen -- The development of mathematics at the German universities.",
+        "13052": "Prelude -- Love's experiments -- Love's philosophies -- Love's consummations.",
+        "13056": "Bismarck as a National Type. By Kuno Francke. -- The Love Letters of Bismarck. -- Correspondence of William I. and Bismarck. -- From \"Thoughts and Recollections.\" -- Bismarck as an Orator. By Edmund von Mach. -- Bismarck: Professorial Politics -- Speech from the Throne -- Alsace-Lorraine a Glacis Against France -- We Shall Never Go to Canossa! -- Bismarck as the \"Honest Broker\" -- Salus Publica--Bismarck's Only Lode-Star -- Practical Christianity -- We Germans Fear God, and Nought Else in the World -- Mount the Guards at the Warthe and the Vistula! -- Long Live the Emperor and the Empire! -- The Life of Moltke. By Karl Detlev Jessen. -- von Moltke: The Political and Military Conditions of the Ottoman Empire in 1836. -- A Trip to Brussa. -- A Journey to Mossul. -- A Bullfight in Spain. -- Description of Moscow. -- The Peace Movement. -- Fighting on the Frontier. -- Battle of Gravelotte--St. Privat. -- Consolatory Thoughts on the Earthly Life and a Future Existence. -- The Life and Work of Ferdinand Lassalle. By Arthur N. Holcombe. -- Lassalle: The Workingmen's Programme. -- Science and the Workingmen. -- Open Letter to the Central Committee.",
+        "49249": "The poor man and the judge -- The wind rider -- The three gifts -- Snyegurka -- Prince Peter and Princess Magilene -- The old man, his wife, and the fish -- The golden mountain -- The duck that laid golden eggs -- Emelyan the fool -- Ilija, the muromer -- The bad-tempered wife -- Ivashka with the bear\u2019s ear -- The plague -- The peasant and the wind -- The wonderful cloth -- The evil eye -- The seven brothers -- Sila Czarovitch and Ivaschka -- The stolen heart -- Prince Slugobyl -- Princess Marvel -- The ghost.",
+        "18709": "Brothers / Sherwood Anderson -- Fanutza / Konrad Bercovici -- Experiment / Maxwell Struthers Burt -- Darkness / Irvin S. Cobb -- An instrument of the gods / Lincoln Colcord -- The lizard god / Charles J. Finger -- Under the dome / Waldo Frank -- French Eva / Katherine Fullerton Gerould -- The past / Ellen Glasgow -- His smile / Susan Glaspell -- The harbor master / Richard Matthews Hallet -- Green gardens / Frances Noyes Hart -- She walks in beauty / Fannie Hurst -- The little master of the sky / Manuel Komroff -- The man with the good face / Frank Luther Mott -- Master of fallen years / Vincent O'Sullivan -- The shame dance / Wilbur Daniel Steele -- Kindred / Harriet Maxon Thayer -- Shelby / Charles Hanson Towne -- The wallow of the sea / Mary Heaton Vorse.",
+        "41566": "Buddhism, its origin and ceremonies -- Magianism: the Parsees -- Jewish superstitions -- Brahmanism -- Hindu mythology, and the Vishnu Purana -- In China: Confucianism, Taouism, and Buddhism -- Among the Malays, the Slamatan Bromok, the Dyaks, the Papuan tribes, the Ahetas -- The savage races of Asia: the Samojedes; the Mongols; the Ostiaks; in Tibet -- Some African superstitions -- The Zulu witch-finders -- Zabianism and serpent-worship -- Polynesian superstitions -- The Fiji islanders -- The religion of the Maories -- The North American Indians -- Among the Eskimos -- A medi\u00e6val superstition: the flagellants -- Scottish superstitions: Halloween -- Second sight; divination; universality of certain superstitions; fairies in Scotland.",
+        "40857": "The Border -- The Lake Country -- Three rush-bearings -- A group of industrial counties -- The heart of England: Warwickshire -- The Cotswolds -- Oxford -- Counties of the Severn valley -- Somerset and Devonshire -- Cornwall.",
+        "20253": "Als benvolents lectors -- Tresor tret d'una novel\u00b7la -- En Malsangro -- Festa de rams -- Pulchrum aut aptum -- Honradesa liter\u00e0ria -- La m\u00e0 del misteri -- En Pere Perdis -- El mirall de la Guillema -- Conflicte d'un numismata -- Rei desconegut -- La vida i l'obra -- Caritat desordenada -- L'idil\u00b7li nou -- L'encongida -- L'autor de l'obra -- Sepeli id\u00edl\u00b7lic -- No es perd qui vol."
+    },
+    "publication_note": {
+        "23201": "Rio de Janeiro:\r\nTypographia Nacional\r\n1870",
+        "22378": "Lisboa:\r\n(1872)",
+        "17764": "Published by\r\nGustav W. Seitz\r\nHamburg.\r\nENTP at Stationer's Hall",
+        "22772": "Porto:\r\nJo\u00e3o E. Da Cruz Coutinho--Editor\r\n12, Rua Do Almada, 16\r\n1884",
+        "22469": "Porto:\r\nTyp. de A. J. da Silva Teixeira\r\nRua da Cancella Velha, 62\r\n1883",
+        "22468": "Porto:\r\nEdi\u00e7\u00e3o da\r\nRenascen\u00e7a Portuguesa\r\nTipografia Costa Carregal\r\nTrav. Passos Manuel, 27\r\n1912",
+        "16767": "New York:\r\nG.P. Putnam's Sons.\r\n1873.",
+        "20841": "Lisboa:\r\nEmpreza da Historia de Portugal\r\nSociedade Editora\r\nLivraria Moderna, R. Augusta, 95\r\nTypographia R. Ivens, 45 e 47\r\n1906",
+        "3093": "[S.l. :  s.n.,  1918]",
+        "22508": "Lisboa:\r\nNa Impress\u00e3o Regia\r\n1830",
+        "22509": "Lisboa:\r\nEmpreza da Historia de Portugal.\r\nSociedade editora\r\nLivraria Moderna\r\nR. Augusta, 95\r\nTypographia\r\n35, R. Ivens, 37\r\n1903",
+        "23590": "Lisboa:\r\nMonteiro & C.\u00aa--Editores\r\nAgencia Universal De Publica\u00e7\u00f5es\r\nRua Dos Retrozeiros, 75\r\nTyp. da Companhia Nacional Editora\r\n1894",
+        "132": "1910",
+        "21082": "Coimbra:\r\nF. Fran\u00e7a Amado, Editor\r\n1915",
+        "21829": "New-York:\r\nHarper & Brothers, 82 Cliff Street.\r\n1845.",
+        "21563": "Rio de Janeiro:\r\nTypographia Imp. E Const. de J. Villeneuve & C.\r\nRua do Ouvidor N. 65\r\n1869",
+        "24067": "Philadelphia :  Walter H. Jenkins, Printer,  1921",
+        "24319": "Lisboa\r\nNa Typographia da Gazeta dos Tribunais.\r\n\r\n1846.",
+        "8300": "[Murray, KY :  Catholic Software,  1999]",
+        "23442": "Angra do Heroismo:\r\nTyp. Artistica\r\n27--Rua Do Visconde De Bruges--29\r\n1892",
+        "15284": "Frederick Warne & Co., Inc.\r\nNew York\r\n1918",
+        "3043": "New Haven :  Yale University Press,  1919",
+        "21429": "Lisboa:\r\nImprensa Nacional\r\n1896",
+        "17672": "LONDON:\r\n\r\nPrinted by Couchman and Fry, Throgmorton-Street,\r\nFor W. CURTIS, at his Botanic-Garden, Lambeth-Marsh;\r\nAnd Sold by the principal Booksellers in Great-Britain and Ireland.\r\n\r\nM DCC XC.",
+        "14800": "Los Angeles :  The Augustan Reprint Society,  1947",
+        "24412": "Lisboa:\r\nTyp. Estev\u00e3o Nunes & Filhos\r\nR. d'Assuma\u00e7\u00e3o, 18 a 24\r\n1899",
+        "4388": "Toronto :  [s.n.],  1916",
+        "23851": "Lisboa:\r\nTyp. da Casa da Moeda e Papel Sellado\r\n1909",
+        "23919": "Coimbra:\r\nImprensa Da Universidade\r\n1922",
+        "12523": "New Haven :  Yale University Press,  1918",
+        "20495": "Lisboa:\r\nTyp.--Largo Dos Inglezinhos, 27, 1.\u00ba\r\n1881",
+        "24164": "Lisboa:\r\nTypographia Da Gazeta Dos Tribunais\r\n1846",
+        "12345": "Copyright, 1906, 1907.\r\nCopyright, 1907.\r\nPublished, February, 1907",
+        "21406": "Lisboa:\r\nParceria Antonio Maria Pereira\r\nLivraria Editora\r\nRua Augusta, 50, 52 e 54\r\nOfficinas Typographica e de Encaderna\u00e7\u00e3o\r\nMovidas a vapor\r\nRua dos Correeiros, 70 e 72, 1.\u00ba\r\n1903",
+        "28": "Houston: Advantage International, The PaperLess Readers Club, 1992",
+        "28183": "Washington, D.C., 1902.",
+        "15365": "[New York] :  Privately printed by The Society of the New York Hospital,  1921",
+        "22373": "New York :  Hurst & Co.,  [aft. 1872]",
+        "17270": "[S.l.] :  The Malone Society,  1907 (printed by  Charles Whittingham & Co.)",
+        "19233": "Paris ; C. L\u00e9vy ; 1895",
+        "12894": "[S.l. :  s.n.],  1900",
+        "20482": "Lisboa:\r\nTypographia Universal\r\nRua dos Calafates, 110\r\n1866",
+        "52202": "New York and London, Funk & Wagnalls company, 1909.",
+        "13009": "[S.l. :  s.n.],  1919",
+        "13484": "Los Angeles :  The Augustan Reprint Society,  1946",
+        "16243": "MELBOURNE:\r\nF.F. BAILLIERE, PUBLISHER, 85 COLLINS STREET EAST.\r\nLONDON: H. BAILLIERE. PARIS: J.B. BAILLIERE. NEW YORK AND MADRID.\r\nAND ALL BOOKSELLERS.\r\n1862.",
+        "2367": "[S.l] :  Manhattan Engineer District of the United States Army,  1946",
+        "15612": "New York\r\nHenry Holt And Company\r\n1915",
+        "24190": "Rio de Janeiro:\r\nDomingos de Magalh\u00e3es--Editor\r\n54 Rua do Ouvidor 54\r\nLivraria Moderna\r\n1894",
+        "13376": "5th Edition published 2012",
+        "26837": "London: Nisbet & Co. Ltd., 1922",
+        "1143": "[S.l] :  J. M. Dent,  1921",
+        "21855": "Lisboa:\r\nEmpreza Litteraria Luso-Brazileira de A. Souza Pinto, e\r\nLivraria Industrial de Lisboa & C.a\r\nTyp. Occidental, rua da Fabrica 66--Porto\r\n1880",
+        "2898": "[S.l. :  s.n.,  1918]",
+        "5146": "Toronto : [s.n.],  1915",
+        "766": "1869",
+        "15618": "London:\r\nCharles Tilt, Fleet Street.\r\nAnd Mustapha Syried, Constantinople.\r\nMDCCCXXXIX.",
+        "17198": "LONDON:\r\n\r\nPrinted by Couchman and Fry, Throgmorton-Street,\r\nFor W. CURTIS, at his Botanic-Garden, Lambeth-Marsh;\r\nAnd Sold by the principal Booksellers in Great-Britain and Ireland.\r\n\r\nM DCC XC.",
+        "30155": "Methuen & Co Ltd, 1924",
+        "16264": "Berlin 1922\r\nVolksverband der B\u00fccherfreunde\r\nWegweiser Verlag GmbH"
+    },
+    "titlepage_image": {
+        "22761": {
+            "rights_url": "http://creativecommons.org/about/pdm",
+            "image_path": "22761/22761-page-images/cover.tif",
+            "cover_type": "titlepage_image",
+            "rights": "Public domain in the USA."
+        },
+        "17764": {
+            "rights_url": "http://creativecommons.org/about/pdm",
+            "image_path": "17764/17764-h/images/cover.jpg",
+            "cover_type": "titlepage_image",
+            "rights": "Public domain in the USA."
+        },
+        "8789": {
+            "rights_url": "http://creativecommons.org/about/pdm",
+            "image_path": "//www.gutenberg.org/dirs/8/7/8/8789/8789-h/images/titlepage.jpg",
+            "cover_type": "titlepage_image",
+            "rights": "Public domain in the USA."
+        },
+        "22659": {
+            "rights_url": "http://creativecommons.org/about/pdm",
+            "image_path": "22659/22659-page-images/cover.tif",
+            "cover_type": "titlepage_image",
+            "rights": "Public domain in the USA."
+        },
+        "17270": {
+            "rights_url": "http://creativecommons.org/about/pdm",
+            "image_path": "17270/17270-h/images/titlepage.png",
+            "cover_type": "titlepage_image",
+            "rights": "Public domain in the USA."
+        },
+        "17701": {
+            "rights_url": "http://creativecommons.org/about/pdm",
+            "image_path": "17701/17701-h/images/titlepage.jpg",
+            "cover_type": "titlepage_image",
+            "rights": "Public domain in the USA."
+        },
+        "17382": {
+            "rights_url": "http://creativecommons.org/about/pdm",
+            "image_path": "17382/17382-h/images/title_page.jpg",
+            "cover_type": "titlepage_image",
+            "rights": "Public domain in the USA."
+        },
+        "19002": {
+            "rights_url": "http://creativecommons.org/about/pdm",
+            "image_path": "19002/19002-h/images/image_092.jpg",
+            "cover_type": "titlepage_image",
+            "rights": "Public domain in the USA."
+        },
+        "16441": {
+            "rights_url": "http://creativecommons.org/about/pdm",
+            "image_path": "16441/16441-h/images/title.jpg",
+            "cover_type": "titlepage_image",
+            "rights": "Public domain in the USA."
+        }
+    },
+    "alternative_title": {
+        "35543": "Min lille dreng. English",
+        "22469": "A morte do atleta",
+        "22468": "Sintra",
+        "22465": "A Christmas carol. German",
+        "13735": "The great shadow. French",
+        "13734": "Rodney Stone. French",
+        "13657": "Todesgruss der Legionen, 1. Band",
+        "26376": "Anacreontea. French",
+        "35789": "Symposium",
+        "43278": "Cakes and Ale\r\nA Dissertation on Banquets Interspersed with Various Recipes, More or Less Original, and anecdotes, mainly veracious",
+        "55295": "Historical record of the 2nd Foot",
+        "26574": "Ars\u00e8ne Lupin, gentleman-cambrioleur. English",
+        "35547": "Le livre de Monelle. German",
+        "19393": "Plays of Near and Far",
+        "26570": "De Pronuntiatione Graecae et Latinae Linguae",
+        "347": "Grettis saga. English",
+        "55766": "25 po\u00e8mes",
+        "17520": "Letters of the Right Honourable Lady Mary Wortley Montague",
+        "3999": "Un philosophe sous les toits. English",
+        "55765": "The Faery Queen for Boys and Girls",
+        "55769": "The complete plays of Robert Greene",
+        "19400": "History Of Egypt, Chaldea, Syria, Babylonia, and Assyria, Volume 1 (of 12)",
+        "32305": "King Lear. Greek",
+        "32304": "Love (trilogy)",
+        "43879": "The vegetarian cook book",
+        "44506": "Kristuslegender. Dutch",
+        "57480": "4 Years in the Underbrush: Adventures as a Working Woman in New York",
+        "52267": "Yingying's Biography",
+        "52262": "The Alhambra. Spanish",
+        "12703": "Lille pige med svovlstikkerne. English",
+        "42242": "\u00dcber die Freiheit des menschlichen Willens. Hungarian",
+        "35437": "Hawaiian Stories",
+        "37221": [
+            "Pr\u00e4formation oder Epigenese? English",
+            "The Biological Problem of Today: Preformation Or Epigenesis?\r\nThe Basis of a Theory of Organic Development"
+        ],
+        "4732": "Prolegomena zur Geschichte Israels. English",
+        "31912": "Gem\u00e4lde. English",
+        "43473": "Les trappeurs de l'Arkansas. English",
+        "31910": "Memoirs of the Extraordinary Military Career of John Shipp\r\nLate a Lieutenant in His Majesty's 87th Regiment",
+        "23842": "Yang Jia Jiang",
+        "23843": "Ming Yue Tai",
+        "23840": "Jin Si Lu",
+        "23841": "Han Shu",
+        "30114": "Als U-Boots-Kommandant gegen England. English",
+        "46133": "The bride of Lammermoor. Finnish",
+        "23849": [
+            "Peony Pavilion",
+            "Mu dan ting"
+        ],
+        "27172": "Geng Si Bian",
+        "27170": "Jeppe p\u00e5 bjerget. Esperanto",
+        "27171": "Guigu si you zhi",
+        "26480": "Kongs-emnerne. Esperanto",
+        "51602": "Jo's boy's. Finnish",
+        "30842": "Poems of West and East",
+        "60135": "Mexico and Her People of Today",
+        "41845": "Onamaalu",
+        "25288": [
+            "Classic of the Mountains and Seas",
+            "Shan hai jing"
+        ],
+        "25289": "Canglang Shi Hua",
+        "25286": "Huan Xi Yuan Jia",
+        "25287": "Xu shi shuo",
+        "25284": "Wu Feng Yin",
+        "25282": "Der Judenstaat. English",
+        "16490": "King Lear. Finnish",
+        "25280": "Da Tang Xin Yu"
+    },
+    "gutenberg_type": {
+        "50088": "Text",
+        "3480": "Text",
+        "11542": "Text",
+        "11543": "Text",
+        "11540": "Text",
+        "11541": "Text",
+        "11546": "Text",
+        "11547": "Text",
+        "11544": "Text",
+        "11545": "Text",
+        "11548": "Text",
+        "11549": "Text",
+        "5988": "Text",
+        "5989": "Text",
+        "19399": "Text",
+        "51541": "Text",
+        "5982": "Text",
+        "5983": "Text",
+        "5980": "Text",
+        "5981": "Text",
+        "5986": "Text",
+        "5987": "Text",
+        "5984": "Text",
+        "5985": "Text",
+        "53900": "Text",
+        "53901": "Text",
+        "28567": "Text",
+        "57483": "Text",
+        "57482": "Text",
+        "57485": "Text",
+        "57484": "Text",
+        "36709": "Text",
+        "46139": "Text",
+        "46138": "Text",
+        "46137": "Text",
+        "46136": "Text",
+        "46135": "Text",
+        "36708": "Text",
+        "46133": "Text",
+        "46132": "Text",
+        "46131": "Text",
+        "46130": "Text",
+        "36707": "Text",
+        "36706": "Text",
+        "28561": "Text",
+        "19973": "Text",
+        "19972": "Text",
+        "272": "Text",
+        "273": "Text",
+        "274": "Text",
+        "275": "Text",
+        "19975": "Text",
+        "19974": "Text",
+        "16705": "Text",
+        "16704": "Text",
+        "19979": "Text",
+        "16706": "Text",
+        "16701": "Text",
+        "16700": "Text",
+        "16703": "Text"
+    },
+    "publisher": {
+        "50088": "Project Gutenberg",
+        "3480": "Project Gutenberg",
+        "11542": "Project Gutenberg",
+        "11543": "Project Gutenberg",
+        "11540": "Project Gutenberg",
+        "11541": "Project Gutenberg",
+        "11546": "Project Gutenberg",
+        "11547": "Project Gutenberg",
+        "11544": "Project Gutenberg",
+        "11545": "Project Gutenberg",
+        "11548": "Project Gutenberg",
+        "11549": "Project Gutenberg",
+        "5988": "Project Gutenberg",
+        "5989": "Project Gutenberg",
+        "19399": "Project Gutenberg",
+        "51541": "Project Gutenberg",
+        "5982": "Project Gutenberg",
+        "5983": "Project Gutenberg",
+        "5980": "Project Gutenberg",
+        "5981": "Project Gutenberg",
+        "5986": "Project Gutenberg",
+        "5987": "Project Gutenberg",
+        "5984": "Project Gutenberg",
+        "5985": "Project Gutenberg",
+        "53900": "Project Gutenberg",
+        "53901": "Project Gutenberg",
+        "28567": "Project Gutenberg",
+        "57483": "Project Gutenberg",
+        "57482": "Project Gutenberg",
+        "57485": "Project Gutenberg",
+        "57484": "Project Gutenberg",
+        "36709": "Project Gutenberg",
+        "46139": "Project Gutenberg",
+        "46138": "Project Gutenberg",
+        "46137": "Project Gutenberg",
+        "46136": "Project Gutenberg",
+        "46135": "Project Gutenberg",
+        "36708": "Project Gutenberg",
+        "46133": "Project Gutenberg",
+        "46132": "Project Gutenberg",
+        "46131": "Project Gutenberg",
+        "46130": "Project Gutenberg",
+        "36707": "Project Gutenberg",
+        "36706": "Project Gutenberg",
+        "28561": "Project Gutenberg",
+        "19973": "Project Gutenberg",
+        "19972": "Project Gutenberg",
+        "272": "Project Gutenberg",
+        "273": "Project Gutenberg",
+        "274": "Project Gutenberg",
+        "275": "Project Gutenberg",
+        "19975": "Project Gutenberg",
+        "19974": "Project Gutenberg",
+        "16705": "Project Gutenberg",
+        "16704": "Project Gutenberg",
+        "19979": "Project Gutenberg",
+        "16706": "Project Gutenberg",
+        "16701": "Project Gutenberg",
+        "16700": "Project Gutenberg",
+        "16703": "Project Gutenberg"
+    },
+    "language": {
+        "50088": "en",
+        "3480": "en",
+        "11542": "en",
+        "11543": "en",
+        "11540": "en",
+        "11541": "en",
+        "11546": "en",
+        "11547": "en",
+        "11544": "en",
+        "11545": "en",
+        "11548": "en",
+        "11549": "en",
+        "5988": "en",
+        "5989": "en",
+        "19399": "en",
+        "51541": "en",
+        "5982": "en",
+        "5983": "en",
+        "5980": "en",
+        "5981": "en",
+        "5986": "en",
+        "5987": "en",
+        "5984": "en",
+        "5985": "es",
+        "53900": "en",
+        "53901": "en",
+        "28567": "en",
+        "57483": "en",
+        "57482": "en",
+        "57485": "en",
+        "57484": "en",
+        "36709": "en",
+        "46139": "en",
+        "46138": "en",
+        "46137": "fr",
+        "46136": "en",
+        "46135": "de",
+        "36708": "fr",
+        "46133": "fi",
+        "46132": "en",
+        "46131": "en",
+        "46130": "en",
+        "36707": "en",
+        "36706": "fr",
+        "28561": "en",
+        "19973": "en",
+        "19972": "fr",
+        "272": "en",
+        "273": "en",
+        "274": "en",
+        "275": "en",
+        "19975": "en",
+        "19974": "pt",
+        "16705": "en",
+        "16704": "en",
+        "19979": "en",
+        "16706": "en",
+        "16701": "nl",
+        "16700": "en",
+        "16703": "en"
+    },
+    "rights": {
+        "50088": "Public domain in the USA.",
+        "3480": "Public domain in the USA.",
+        "11542": "Public domain in the USA.",
+        "11543": "Public domain in the USA.",
+        "11540": "Public domain in the USA.",
+        "11541": "Public domain in the USA.",
+        "11546": "Public domain in the USA.",
+        "11547": "Public domain in the USA.",
+        "11544": "Public domain in the USA.",
+        "11545": "Public domain in the USA.",
+        "11548": "Public domain in the USA.",
+        "11549": "Public domain in the USA.",
+        "5988": "Public domain in the USA.",
+        "5989": "Public domain in the USA.",
+        "19399": "Public domain in the USA.",
+        "51541": "Public domain in the USA.",
+        "5982": "Public domain in the USA.",
+        "5983": "Public domain in the USA.",
+        "5980": "Public domain in the USA.",
+        "5981": "Public domain in the USA.",
+        "5986": "Public domain in the USA.",
+        "5987": "Public domain in the USA.",
+        "5984": "Public domain in the USA.",
+        "5985": "Public domain in the USA.",
+        "53900": "Public domain in the USA.",
+        "53901": "Public domain in the USA.",
+        "28567": "Public domain in the USA.",
+        "57483": "Public domain in the USA.",
+        "57482": "Public domain in the USA.",
+        "57485": "Public domain in the USA.",
+        "57484": "Public domain in the USA.",
+        "36709": "Public domain in the USA.",
+        "46139": "Public domain in the USA.",
+        "46138": "Public domain in the USA.",
+        "46137": "Public domain in the USA.",
+        "46136": "Public domain in the USA.",
+        "46135": "Public domain in the USA.",
+        "36708": "Public domain in the USA.",
+        "46133": "Public domain in the USA.",
+        "46132": "Public domain in the USA.",
+        "46131": "Public domain in the USA.",
+        "46130": "Public domain in the USA.",
+        "36707": "Public domain in the USA.",
+        "36706": "Public domain in the USA.",
+        "28561": "Public domain in the USA.",
+        "19973": "Public domain in the USA.",
+        "19972": "Public domain in the USA.",
+        "272": "Public domain in the USA.",
+        "273": "Public domain in the USA.",
+        "274": "Public domain in the USA.",
+        "275": "Public domain in the USA.",
+        "19975": "Public domain in the USA.",
+        "19974": "Public domain in the USA.",
+        "16705": "Public domain in the USA.",
+        "16704": "Public domain in the USA.",
+        "19979": "Public domain in the USA.",
+        "16706": "Public domain in the USA.",
+        "16701": "Public domain in the USA.",
+        "16700": "Public domain in the USA.",
+        "16703": "Public domain in the USA."
+    },
+    "url": {
+        "50088": "http://www.gutenberg.org/ebooks/50088",
+        "3480": "http://www.gutenberg.org/ebooks/3480",
+        "11542": "http://www.gutenberg.org/ebooks/11542",
+        "11543": "http://www.gutenberg.org/ebooks/11543",
+        "11540": "http://www.gutenberg.org/ebooks/11540",
+        "11541": "http://www.gutenberg.org/ebooks/11541",
+        "11546": "http://www.gutenberg.org/ebooks/11546",
+        "11547": "http://www.gutenberg.org/ebooks/11547",
+        "11544": "http://www.gutenberg.org/ebooks/11544",
+        "11545": "http://www.gutenberg.org/ebooks/11545",
+        "11548": "http://www.gutenberg.org/ebooks/11548",
+        "11549": "http://www.gutenberg.org/ebooks/11549",
+        "5988": "http://www.gutenberg.org/ebooks/5988",
+        "5989": "http://www.gutenberg.org/ebooks/5989",
+        "19399": "http://www.gutenberg.org/ebooks/19399",
+        "51541": "http://www.gutenberg.org/ebooks/51541",
+        "5982": "http://www.gutenberg.org/ebooks/5982",
+        "5983": "http://www.gutenberg.org/ebooks/5983",
+        "5980": "http://www.gutenberg.org/ebooks/5980",
+        "5981": "http://www.gutenberg.org/ebooks/5981",
+        "5986": "http://www.gutenberg.org/ebooks/5986",
+        "5987": "http://www.gutenberg.org/ebooks/5987",
+        "5984": "http://www.gutenberg.org/ebooks/5984",
+        "5985": "http://www.gutenberg.org/ebooks/5985",
+        "53900": "http://www.gutenberg.org/ebooks/53900",
+        "53901": "http://www.gutenberg.org/ebooks/53901",
+        "28567": "http://www.gutenberg.org/ebooks/28567",
+        "57483": "http://www.gutenberg.org/ebooks/57483",
+        "57482": "http://www.gutenberg.org/ebooks/57482",
+        "57485": "http://www.gutenberg.org/ebooks/57485",
+        "57484": "http://www.gutenberg.org/ebooks/57484",
+        "36709": "http://www.gutenberg.org/ebooks/36709",
+        "46139": "http://www.gutenberg.org/ebooks/46139",
+        "46138": "http://www.gutenberg.org/ebooks/46138",
+        "46137": "http://www.gutenberg.org/ebooks/46137",
+        "46136": "http://www.gutenberg.org/ebooks/46136",
+        "46135": "http://www.gutenberg.org/ebooks/46135",
+        "36708": "http://www.gutenberg.org/ebooks/36708",
+        "46133": "http://www.gutenberg.org/ebooks/46133",
+        "46132": "http://www.gutenberg.org/ebooks/46132",
+        "46131": "http://www.gutenberg.org/ebooks/46131",
+        "46130": "http://www.gutenberg.org/ebooks/46130",
+        "36707": "http://www.gutenberg.org/ebooks/36707",
+        "36706": "http://www.gutenberg.org/ebooks/36706",
+        "28561": "http://www.gutenberg.org/ebooks/28561",
+        "19973": "http://www.gutenberg.org/ebooks/19973",
+        "19972": "http://www.gutenberg.org/ebooks/19972",
+        "272": "http://www.gutenberg.org/ebooks/272",
+        "273": "http://www.gutenberg.org/ebooks/273",
+        "274": "http://www.gutenberg.org/ebooks/274",
+        "275": "http://www.gutenberg.org/ebooks/275",
+        "19975": "http://www.gutenberg.org/ebooks/19975",
+        "19974": "http://www.gutenberg.org/ebooks/19974",
+        "16705": "http://www.gutenberg.org/ebooks/16705",
+        "16704": "http://www.gutenberg.org/ebooks/16704",
+        "19979": "http://www.gutenberg.org/ebooks/19979",
+        "16706": "http://www.gutenberg.org/ebooks/16706",
+        "16701": "http://www.gutenberg.org/ebooks/16701",
+        "16700": "http://www.gutenberg.org/ebooks/16700",
+        "16703": "http://www.gutenberg.org/ebooks/16703"
+    },
+    "identifiers": {
+        "50088": {
+            "gutenberg": "50088"
+        },
+        "3480": {
+            "gutenberg": "3480"
+        },
+        "11542": {
+            "gutenberg": "11542"
+        },
+        "11543": {
+            "gutenberg": "11543"
+        },
+        "11540": {
+            "gutenberg": "11540"
+        },
+        "11541": {
+            "gutenberg": "11541"
+        },
+        "11546": {
+            "gutenberg": "11546"
+        },
+        "11547": {
+            "gutenberg": "11547"
+        },
+        "11544": {
+            "gutenberg": "11544"
+        },
+        "11545": {
+            "gutenberg": "11545"
+        },
+        "11548": {
+            "gutenberg": "11548"
+        },
+        "11549": {
+            "gutenberg": "11549"
+        },
+        "5988": {
+            "lccn": "02012209",
+            "gutenberg": "5988"
+        },
+        "5989": {
+            "gutenberg": "5989"
+        },
+        "19399": {
+            "gutenberg": "19399"
+        },
+        "51541": {
+            "lccn": "21017379",
+            "gutenberg": "51541"
+        },
+        "5982": {
+            "gutenberg": "5982"
+        },
+        "5983": {
+            "gutenberg": "5983"
+        },
+        "5980": {
+            "gutenberg": "5980"
+        },
+        "5981": {
+            "gutenberg": "5981"
+        },
+        "5986": {
+            "gutenberg": "5986"
+        },
+        "5987": {
+            "gutenberg": "5987"
+        },
+        "5984": {
+            "gutenberg": "5984"
+        },
+        "5985": {
+            "gutenberg": "5985"
+        },
+        "53900": {
+            "lccn": "00423102",
+            "gutenberg": "53900"
+        },
+        "53901": {
+            "gutenberg": "53901"
+        },
+        "28567": {
+            "gutenberg": "28567"
+        },
+        "57483": {
+            "lccn": "04027185",
+            "gutenberg": "57483"
+        },
+        "57482": {
+            "gutenberg": "57482"
+        },
+        "57485": {
+            "gutenberg": "57485"
+        },
+        "57484": {
+            "gutenberg": "57484"
+        },
+        "36709": {
+            "gutenberg": "36709"
+        },
+        "46139": {
+            "lccn": "10008406",
+            "gutenberg": "46139"
+        },
+        "46138": {
+            "gutenberg": "46138"
+        },
+        "46137": {
+            "gutenberg": "46137"
+        },
+        "46136": {
+            "lccn": "10001351",
+            "gutenberg": "46136"
+        },
+        "46135": {
+            "gutenberg": "46135"
+        },
+        "36708": {
+            "gutenberg": "36708"
+        },
+        "46133": {
+            "gutenberg": "46133"
+        },
+        "46132": {
+            "gutenberg": "46132"
+        },
+        "46131": {
+            "gutenberg": "46131"
+        },
+        "46130": {
+            "gutenberg": "46130"
+        },
+        "36707": {
+            "gutenberg": "36707"
+        },
+        "36706": {
+            "gutenberg": "36706"
+        },
+        "28561": {
+            "gutenberg": "28561"
+        },
+        "19973": {
+            "gutenberg": "19973"
+        },
+        "19972": {
+            "gutenberg": "19972"
+        },
+        "272": {
+            "gutenberg": "272"
+        },
+        "273": {
+            "gutenberg": "273"
+        },
+        "274": {
+            "gutenberg": "274"
+        },
+        "275": {
+            "gutenberg": "275"
+        },
+        "19975": {
+            "gutenberg": "19975"
+        },
+        "19974": {
+            "gutenberg": "19974"
+        },
+        "16705": {
+            "lccn": "14021044",
+            "gutenberg": "16705"
+        },
+        "16704": {
+            "gutenberg": "16704"
+        },
+        "19979": {
+            "gutenberg": "19979"
+        },
+        "16706": {
+            "lccn": "22025027",
+            "gutenberg": "16706"
+        },
+        "16701": {
+            "gutenberg": "16701"
+        },
+        "16700": {
+            "gutenberg": "16700"
+        },
+        "16703": {
+            "gutenberg": "16703"
+        }
+    },
+    "summary": {
+        "17764": "King Winter, the embodiment of the Christmas Spirit, leaves his palace of snow to bring winter to the land and reward obedient children with holiday sweets.",
+        "58937": "Using a story format, presents basic instructions in sewing, introduces children's fashions from the early twentieth century, and provides instructions for thirty-three sewing projects for sixteen inch dolls.",
+        "21783": "Containing a Careful Selection of Words in the English Language Most Commonly Mispronounced, together with their Pronunciation as Given by the Best Authorities in England and America",
+        "20781": "Johanna Spyri\u2019s classic story of a Swiss orphan who is heartbroken when she must leave her beloved grandfather and their happy home in the mountains to go to school and to care for an invalid girl in the city.",
+        "15284": "After visiting each other\u2019s homes, Johnny Town-Mouse and Timmy Willy who lives in the country, decide that they prefer their own place.",
+        "34157": "Containing an exact Account of its Principles and several Parts, viz. Of the Bones, Muscles, Tumours, Ulcers, and Wounds simple and complicated, or those by Gun-shot; as also of Venereal Diseases, the Scurvy, Fractures, Luxations, and all sorts of Chirurgical Operations; together with their proper Bandages and Dressings.\r\n\r\nTo which is added, a Chirurgical Dispensatory; shewing the manner how to prepare all such Medicines as are most necessary for a Surgeon, and particularly the Mercurial Panac\u00e6a.",
+        "17382": "A fun and wonderfully illustrated version of Night Before Christmas.",
+        "19002": "This edition of the story of the little girl who falls down a rabbit hole and discovers a world of nonsensical and amusing characters is illustrated by the author himself."
+    },
+    "rights_url": {
+        "50088": "http://creativecommons.org/about/pdm",
+        "3480": "http://creativecommons.org/about/pdm",
+        "11542": "http://creativecommons.org/about/pdm",
+        "11543": "http://creativecommons.org/about/pdm",
+        "11540": "http://creativecommons.org/about/pdm",
+        "11541": "http://creativecommons.org/about/pdm",
+        "11546": "http://creativecommons.org/about/pdm",
+        "11547": "http://creativecommons.org/about/pdm",
+        "11544": "http://creativecommons.org/about/pdm",
+        "11545": "http://creativecommons.org/about/pdm",
+        "11548": "http://creativecommons.org/about/pdm",
+        "11549": "http://creativecommons.org/about/pdm",
+        "5988": "http://creativecommons.org/about/pdm",
+        "5989": "http://creativecommons.org/about/pdm",
+        "19399": "http://creativecommons.org/about/pdm",
+        "51541": "http://creativecommons.org/about/pdm",
+        "5982": "http://creativecommons.org/about/pdm",
+        "5983": "http://creativecommons.org/about/pdm",
+        "5980": "http://creativecommons.org/about/pdm",
+        "5981": "http://creativecommons.org/about/pdm",
+        "5986": "http://creativecommons.org/about/pdm",
+        "5987": "http://creativecommons.org/about/pdm",
+        "5984": "http://creativecommons.org/about/pdm",
+        "5985": "http://creativecommons.org/about/pdm",
+        "53900": "http://creativecommons.org/about/pdm",
+        "53901": "http://creativecommons.org/about/pdm",
+        "28567": "http://creativecommons.org/about/pdm",
+        "57483": "http://creativecommons.org/about/pdm",
+        "57482": "http://creativecommons.org/about/pdm",
+        "57485": "http://creativecommons.org/about/pdm",
+        "57484": "http://creativecommons.org/about/pdm",
+        "36709": "http://creativecommons.org/about/pdm",
+        "46139": "http://creativecommons.org/about/pdm",
+        "46138": "http://creativecommons.org/about/pdm",
+        "46137": "http://creativecommons.org/about/pdm",
+        "46136": "http://creativecommons.org/about/pdm",
+        "46135": "http://creativecommons.org/about/pdm",
+        "36708": "http://creativecommons.org/about/pdm",
+        "46133": "http://creativecommons.org/about/pdm",
+        "46132": "http://creativecommons.org/about/pdm",
+        "46131": "http://creativecommons.org/about/pdm",
+        "46130": "http://creativecommons.org/about/pdm",
+        "36707": "http://creativecommons.org/about/pdm",
+        "36706": "http://creativecommons.org/about/pdm",
+        "28561": "http://creativecommons.org/about/pdm",
+        "19973": "http://creativecommons.org/about/pdm",
+        "19972": "http://creativecommons.org/about/pdm",
+        "272": "http://creativecommons.org/about/pdm",
+        "273": "http://creativecommons.org/about/pdm",
+        "274": "http://creativecommons.org/about/pdm",
+        "275": "http://creativecommons.org/about/pdm",
+        "19975": "http://creativecommons.org/about/pdm",
+        "19974": "http://creativecommons.org/about/pdm",
+        "16705": "http://creativecommons.org/about/pdm",
+        "16704": "http://creativecommons.org/about/pdm",
+        "19979": "http://creativecommons.org/about/pdm",
+        "16706": "http://creativecommons.org/about/pdm",
+        "16701": "http://creativecommons.org/about/pdm",
+        "16700": "http://creativecommons.org/about/pdm",
+        "16703": "http://creativecommons.org/about/pdm"
+    },
+    "production_note": {
+        "23201": "Produced by Pedro Saborano (This file was produced from\r\nimages generously made available by Cornell University\r\nDigital Collections)",
+        "22378": "Produced by Rita Farinha and the Online Distributed\r\nProofreading Team at http://www.pgdp.net (This file was\r\nproduced from images generously made available by National\r\nLibrary of Portugal (Biblioteca Nacional de Portugal)",
+        "22772": "Produced by Pedro Saborano. (produced from scanned images\r\nof public domain material from Google Book Search)",
+        "22469": "Produced by Tiago Tejo",
+        "22468": "Produced by Vasco Salgado",
+        "21011": "Produced by Pedro Saborano. Para coment\u00e1rios \u00e0 transcri\u00e7\u00e3o\r\nvisite http://pt-scriba.blogspot.com (This book was\r\nproduced from scanned images of public domain material\r\nfrom the Google Print project.)",
+        "20841": "Produced by Rita Farinha and the Online Distributed Proofreading Team at http://www.pgdp.net from images generously made available by National Library of Portugal (Biblioteca Nacional de Portugal)",
+        "22508": "Produced by Pedro Saborano. (produced from scanned images\r\nof public domain material from Google Book Search)",
+        "22509": "Produced by Pedro Saborano. (produced from scanned images\r\nof public domain material from Google Book Search)",
+        "23590": "Produced by Pedro Saborano (produced from scanned images\r\nof public domain material from Google Book Search)",
+        "21082": "Produced by Pedro Saborano. Para coment\u00e1rios \u00e0 transcri\u00e7\u00e3o\r\nvisite http://pt-scriba.blogspot.com (produzido a partir\r\ndas imagens de obras em dom\u00ednio p\u00fablico, disponibilizadas\r\npela BibRIA - Biblioteca digital dos munic\u00edpios da Ria)",
+        "4300": "EBook produced by Col Choat.",
+        "21563": "Produced by Pedro Saborano. Para coment\u00e1rios \u00e0 transcri\u00e7\u00e3o\r\nvisite http://pt-scriba.blogspot.com (This book was\r\nproduced from scanned images of public domain material\r\nfrom the Google Print project.)",
+        "24319": "Produced by Rita Farinha and the Online Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images generously made available by National Library of Portugal (Biblioteca Nacional de Portugal).)",
+        "23442": "Produced by Vasco Salgado",
+        "24411": "Produced by Pedro Saborano (produced from scanned images of public domain material from Google Book Search)",
+        "24412": "Produced by Pedro Saborano (produced from scanned images from BibRia)",
+        "23851": "Produced by Rita Farinha and the Online Distributed\r\nProofreading Team at http://www.pgdp.net (This file was\r\nproduced from images generously made available by National\r\nLibrary of Portugal (Biblioteca Nacional de Portugal).)",
+        "23919": "Produced by Rita Farinha and the Online Distributed\r\nProofreading Team at http://www.pgdp.net (This file was\r\nproduced from images generously made available by National\r\nLibrary of Portugal (Biblioteca Nacional de Portugal).)",
+        "24164": "Produced by Rita Farinha and the Online Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images generously made available by National Library of Portugal (Biblioteca Nacional de Portugal).)",
+        "21406": "Produced by Rita Farinha and the Online Distributed\r\nProofreading Team at http://www.pgdp.net (This file was\r\nproduced from images generously made available by National\r\nLibrary of Portugal (Biblioteca Nacional de Portugal)",
+        "23110": "Produced by Tiago Tejo",
+        "16243": "EBook produced by Sue Asscher",
+        "24190": "Produced by Ricardo F. Diogo, Rita Farinha and the Online Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)",
+        "21855": "Produced by Pedro Saborano. Para coment\u00e1rios \u00e0\r\ntranscri\u00e7\u00e3o visite\r\nhttp://pt-scriba.blogspot.com/ (This book was produced\r\nfrom scanned images of public domain material from Google\r\nBook Search)",
+        "21911": "Produced by Rita Farinha and the Online Distributed\r\nProofreading Team at http://www.pgdp.net (This file was\r\nproduced from images generously made available by National\r\nLibrary of Portugal (Biblioteca Nacional de Portugal)",
+        "16264": "EBook produced by Martin C. Doege <mdoege@compuserve.com>",
+        "22678": "Produced by Vasco Salgado",
+        "22679": "Produced by Vasco Salgado",
+        "21567": "Produced by Pedro Saborano. Para coment\u00e1rios \u00e0 transcri\u00e7\u00e3o\r\nvisite http://pt-scriba.blogspot.com (produzido a partir\r\ndas imagens de obras em dom\u00ednio p\u00fablico, disponibilizadas\r\npela BibRIA - Biblioteca digital dos munic\u00edpios da Ria)",
+        "24508": "Produced by Rita Farinha and the Online Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images generously made available by National Library of Portugal (Biblioteca Nacional de Portugal).)",
+        "23961": "Produced by Vasco Salgado",
+        "24262": "Produced by Tiago Tejo",
+        "23687": "Produced by Ricardo F. Diogo, Rita Farinha and the Online\r\nDistributed Proofreading Team at http://www.pgdp.net",
+        "20570": "Produced by Pedro Saborano (This file was produced from\r\nimages generously made available by the Biblioth\u00e8que\r\nnationale de France (BnF/Gallica) at http://gallica.bnf.fr)",
+        "21779": "Produced by Pedro Saborano. Para coment\u00e1rios \u00e0 transcri\u00e7\u00e3o\r\nvisite http://pt-scriba.blogspot.com (This book was\r\nproduced from scanned images of public domain material\r\nfrom Google Book Search)",
+        "24464": "Produced by Pedro Saborano",
+        "20999": "Produced by Pedro Saborano. Para coment\u00e1rios \u00e0 transcri\u00e7\u00e3o\r\nvisite http://pt-scriba.blogspot.com (This book was\r\nproduced from scanned images of public domain material\r\nfrom the Google Print project.)",
+        "20998": "Produced by Pedro Saborano. Para coment\u00e1rios \u00e0 transcri\u00e7\u00e3o\r\nvisite http://pt-scriba.blogspot.com (This book was\r\nproduced from scanned images of public domain material\r\nfrom the Google Print project.)",
+        "24463": "Produced by Pedro Saborano",
+        "24462": "Produced by Pedro Saborano",
+        "23203": "Produced by Ricardo F. Diogo, Rita Farinha and the Online\r\nDistributed Proofreading Team at http://www.pgdp.net (This\r\nbook was produced from scanned images of public domain\r\nmaterial from the Google Print project.)",
+        "22817": "Produced by Tiago Tejo",
+        "20508": "Produced by Rita Farinha, Jo\u00e3o Miguel Neves, Carlo Traverso\r\nand the Online Distributed Proofreading Team at\r\nhttp://www.pgdp.net (This file was produced from images\r\ngenerously made available by the Biblioth\u00e8que nationale\r\nde France (BnF/Gallica) at http://gallica.bnf.fr)",
+        "22648": "Produced by Vasco Salgado",
+        "22643": "Produced by Vasco Salgado",
+        "6702": "Produced by Steve Schulze, Charles Franks and the Online Distributed Proofreading Team.\r\nThis file was produced from images generously made available by the CWRU Preservation Department Digital Library",
+        "21581": "Produced by Ricardo F. Diogo, Rita Farinha and the Online\r\nDistributed Proofreading Team at http://www.pgdp.net",
+        "22015": "Produced by Rita Farinha and the Online Distributed\r\nProofreading Team at http://www.pgdp.net (This file was\r\nproduced from images generously made available by National\r\nLibrary of Portugal (Biblioteca Nacional de Portugal)",
+        "23879": "Produced by Vasco Salgado",
+        "17503": "Produced by Carla Martins Ramos and Ricardo Diogo. Edited\r\nby Rita Farinha (Biblioteca Nacional\r\nDigital--http://bnd.bn.pt). (This file was produced from\r\nimages generously made available by National Library of\r\nPortugal (Biblioteca Nacional de Portugal)",
+        "29529": "Produced by M. Silva",
+        "16384": "Produced by Biblioteca Nacional Digital ( http://bnd.bn.pt ), Rita Farinha and the Online Distributed Proofreading Team at http://www.pgdp.net",
+        "16387": "Produced by Alicia Williams, Jayam Subramanian and the Online Distributed Proofreading Team at http://www.pgdp.net",
+        "22658": "Produced by Ricardo F. Diogo, Rita Farinha and the Online\r\nDistributed Proofreading Team at http://www.pgdp.net",
+        "21209": "Produced by Ricardo F. Diogo, Rita Farinha and the Online\r\nDistributed Proofreading Team at http://www.pgdp.net",
+        "16402": "Produced by Jonathan Ingram, Fred Robinson and the Online\r\nDistributed Proofreading Team at http://www.pgdp.net",
+        "8698": "Produced Jo\u00e3o Miguel Neves from images of the National Digital Library project from the National Library of Portugal",
+        "16244": "EBook transcribed from the 1924 Norwich edition, Vol. 16, Miscellanies, by David Price, email ccx074@coventry.ac.uk",
+        "22412": "Produced by Tiago Tejo"
+    },
+    "gutenberg_issued": {
+        "50088": "2015-09-30",
+        "3480": "2002-10-01",
+        "11542": "2004-03-01",
+        "11543": "2004-03-01",
+        "11540": "2004-03-01",
+        "11541": "2004-03-01",
+        "11546": "2004-03-01",
+        "11547": "2004-03-01",
+        "11544": "2004-03-01",
+        "11545": "2004-03-01",
+        "11548": "2004-05-01",
+        "11549": "2004-03-01",
+        "5988": "2004-06-01",
+        "5989": "2004-06-01",
+        "19399": "2006-09-28",
+        "51541": "2016-03-24",
+        "5982": "2004-06-01",
+        "5983": "2004-06-01",
+        "5980": "2006-06-06",
+        "5981": "2004-06-01",
+        "5986": "2004-06-01",
+        "5987": "2004-06-01",
+        "5984": "2004-09-28",
+        "5985": "2004-06-01",
+        "53900": "2017-01-06",
+        "53901": "2017-01-06",
+        "28567": "2009-04-20",
+        "57483": "2018-07-11",
+        "57482": "2018-07-10",
+        "57485": "2018-07-11",
+        "57484": "2018-07-11",
+        "36709": "2011-07-11",
+        "46139": "2014-06-29",
+        "46138": "2014-06-29",
+        "46137": "2014-06-29",
+        "46136": "2014-06-29",
+        "46135": "2014-06-29",
+        "36708": "2011-07-11",
+        "46133": "2014-06-29",
+        "46132": "2014-06-29",
+        "46131": "2014-06-29",
+        "46130": "2014-06-29",
+        "36707": "2011-07-11",
+        "36706": "2011-07-14",
+        "28561": "2009-04-12",
+        "19973": "2006-11-29",
+        "19972": "2006-11-29",
+        "272": "1995-06-01",
+        "273": "1995-06-01",
+        "274": "1995-06-01",
+        "275": "2008-06-29",
+        "19975": "2006-11-30",
+        "19974": "2006-11-30",
+        "16705": "2005-09-17",
+        "16704": "2005-09-16",
+        "19979": "2006-11-30",
+        "16706": "2005-09-17",
+        "16701": "2005-09-15",
+        "16700": "2005-09-15",
+        "16703": "2005-09-16"
+    }
+}
