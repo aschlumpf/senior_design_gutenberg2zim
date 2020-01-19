@@ -141,7 +141,7 @@ class Book(BaseModel):
     popularity = 0
 
     def __unicode__(self):
-        return "{}/{}".format(self.id, self.title)
+        return "{}/{}/{}".format(self.id, self.title,self.bookshelf)
 
     def to_dict(self):
         return {'title': self.title,
