@@ -809,32 +809,32 @@ def export_to_json_helpers(books, static_folder, languages,
         # particular bookshelf page
         logger.info('\t\tDumping bookshelf_{}_by_popularity.js'.format(bookshelf))
         dumpjs(
-            [book.to_array()
-            for book in books.where(Book.bookshelf == bookshelf)
-                             .order_by(Books.downloads.desc())],
+            [book
+            for book in Book.select().where(Book.bookshelf == bookshelf)
+                             .order_by(Book.downloads.desc())],
                              'bookshelf_{}_by_popularity.js'.format(bookshelf))
-        )
+        
         # by title
         logger.info('\t\tDumping bookshelf_{}_by_title.js'.format(bookshelf))
         dumpjs(
-            [book.to_array()
-            for book in book.where(Book.bookshelf== bookshelf)
-                            .order_by(Books.title.asc())],
+            [book
+            for book in Book.where(Books.select().bookshelf== bookshelf)
+                            .order_by(Book.title.asc())],
                             'bookshelf_{}_by_title.js'.format(bookshelf))
         # by language
         for lang_name, lang, lang_count in avail_langs:
             logger.info("\t\tDumping bookshelf_{}_by_lang_{}.js"
                         .format(bookshelf, lang))
             dumpjs(
-                [book.to_array()
-                 for book in books.where(Book.language == lang)
+                [book
+                 for book in Book.select.where(Book.language == lang)
                                   .where(Book.bookshelf == bookshelf)
                                   .order_by(Book.downloads.desc())],
                 'bookshelf_{}_lang_{}_by_popularity.js'.format(bookshelf, lang))
 
             dumpjs(
                 [book.to_array()
-                 for book in books.where(Book.language == lang)
+                 for book in Book.select().where(Book.language == lang)
                                   .where(bookshelf == author)
                                   .order_by(Book.title.asc())],
                 'bookshelf_{}_lang_{}_by_title.js'.format(bookshelf, lang))
