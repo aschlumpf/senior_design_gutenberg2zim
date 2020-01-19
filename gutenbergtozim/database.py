@@ -149,7 +149,7 @@ class Book(BaseModel):
                 'author': self.author.name(),
                 'license': self.license,
                 'language': self.language,
-                'downloads': self.downloads
+                'downloads': self.downloads,
                 'bookshelf': self.bookshelf}
 
     def to_array(self):
