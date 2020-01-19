@@ -64,3 +64,5 @@ rdf-files
 dl-cache
 gut-env
 tmp
+
+.vscode
