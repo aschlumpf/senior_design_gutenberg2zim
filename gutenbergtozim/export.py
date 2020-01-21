@@ -840,6 +840,11 @@ def export_to_json_helpers(books, static_folder, languages,
                 'bookshelf_{}_lang_{}_by_title.js'.format(bookshelf, lang))
         # TODO create the bookshelf html
 
+    # bookshelf list sorted by name
+    logger.info("\t\tDumping bookshelves.js")
+    dumpjs(bookshelves,
+           'bookshelves.js', 'bookshelves_json_data')
+
     # author specific collections
     authors = authors_from_ids(all_filtered_authors)
     for author in authors:
