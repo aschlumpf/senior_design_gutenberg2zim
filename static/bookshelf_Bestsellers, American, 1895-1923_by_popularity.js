@@ -1,0 +1,1 @@
+var json_data = [["The Jungle", "Upton Sinclair", "110", 140, "Bestsellers, American, 1895-1923"], ["The Damnation of Theron Ware", "Harold Frederic", "110", 133, "Bestsellers, American, 1895-1923"]];

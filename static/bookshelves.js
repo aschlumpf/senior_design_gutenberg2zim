@@ -1,0 +1,1 @@
+var bookshelves_json_data = [null, "Adventure", "Banned Books from Anne Haight's list", "Best Books Ever Listings", "Bestsellers, American, 1895-1923", "Children's Literature", "Christianity", "Detective Fiction", "Gothic Fiction", "Harvard Classics", "Historical Fiction", "Mathematics", "Plays", "School Stories", "Science Fiction"];
