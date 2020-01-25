@@ -125,7 +125,7 @@ def export_skeleton(static_folder, dev_mode=False,
     # export homepage
     context = get_default_context(project_id, books=books)
     context.update({'show_books': True, 'dev_mode': dev_mode})
-    for tpl_path in ('Home.html', 'js/tools.js', 'js/l10n.js'):
+    for tpl_path in ('Home.html', 'js/tools.js', 'js/l10n.js','bookshelf_home.html'):
         template = jinja_env.get_template(tpl_path)
         rendered = template.render(**context)
         save_bs_output(rendered, os.path.join(static_folder, tpl_path), UTF8)
@@ -820,6 +820,8 @@ def export_to_json_helpers(books, static_folder, languages,
         all_bookshelves += [bookshelf_object]
     logger.info('\t\tDumping bookshelves.js')
     dumpjs(all_bookshelves, 'bookshelves.js', 'bookshelves_json_data')
+    context = get_default_context(project_id=project_id, books=books)
+    context.update({'bookshelves':all_bookshelves})
 
 #     for bookshelf in bookshelves:
 #         #exclude the books with no bookshelf data
