@@ -1,1 +1,1 @@
-var json_data = [];
+var json_data = [["Aesop's Fables", "Aesop", "110", 28, "Harvard Classics"], ["Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences", "Ren\u00e9 Descartes", "110", 59, "Harvard Classics"], ["The Legend of Sleepy Hollow", "Washington Irving", "110", 41, "Harvard Classics"], ["The Scarlet Letter", "Nathaniel Hawthorne", "110", 33, "Harvard Classics"]];

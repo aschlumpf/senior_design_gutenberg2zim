@@ -1,1 +1,0 @@
-var json_data = [["The Republic", "Plato", "110", 150, null]];

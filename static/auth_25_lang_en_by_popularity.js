@@ -1,1 +1,1 @@
-var json_data = [["United States Census Figures Back to 1630", "United States. Bureau of the Census", "110", 115, null]];
+var json_data = [["The 1990 United States Census", "United States. Bureau of the Census", "110", 29, null], ["The 1990 United States Census [2nd]", "United States. Bureau of the Census", "110", 37, null], ["United States Census Figures Back to 1630", "United States. Bureau of the Census", "110", 115, null]];

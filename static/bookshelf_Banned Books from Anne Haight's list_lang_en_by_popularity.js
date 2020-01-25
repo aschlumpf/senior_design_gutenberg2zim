@@ -1,1 +1,1 @@
-var json_data = [["Tess of the d'Urbervilles: A Pure Woman", "Thomas Hardy", "110", 110, "Banned Books from Anne Haight's list"]];
+var json_data = [["The Adventures of Tom Sawyer", "Mark Twain", "110", 74, "Banned Books from Anne Haight's list"], ["Paradise Lost", "John Milton", "110", 20, "Banned Books from Anne Haight's list"], ["Tess of the d'Urbervilles: A Pure Woman", "Thomas Hardy", "110", 110, "Banned Books from Anne Haight's list"]];

@@ -1,1 +1,1 @@
-var json_data = [["Jungle Tales of Tarzan", "Edgar Rice Burroughs", "110", 106, "Adventure"]];
+var json_data = [["Around the World in Eighty Days", "Jules Verne", "110", 103, "Adventure"], ["The Beasts of Tarzan", "Edgar Rice Burroughs", "110", 85, "Adventure"], ["Tarzan and the Jewels of Opar", "Edgar Rice Burroughs", "110", 92, "Adventure"]];

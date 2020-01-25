@@ -1,1 +1,1 @@
-var json_data = [["The Number \"e\"", "Robert J. Nemiroff", "010", 127, "Mathematics"], ["The Square Root of 2", "Robert J. Nemiroff", "000", 129, "Mathematics"]];
+var json_data = [["Flatland: A Romance of Many Dimensions", "Edwin Abbott Abbott", "110", 97, "Mathematics"], ["Pi", "Scott Hemphill", "010", 50, "Mathematics"], ["The 32nd Mersenne Prime", "David Slowinski", "110", 69, "Mathematics"], ["The Square Root of 2", "Stan Kerr", "000", 52, "Mathematics"]];

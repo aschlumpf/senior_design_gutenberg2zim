@@ -4,7 +4,7 @@ var inBooksLooadingLoop = false;
 var booksTable = null;
 var persist_options = {
   context: 'gutenberg', // a context or namespace for each field
-  cookie: 'gutenberg_en-fr_pdf-html_selection_2020-01', // cookies basename
+  cookie: 'gutenberg__all_2020-01', // cookies basename
   expires: 1, // cookie expiry (eg 365)
   replace: true,
   debug: true
@@ -65,6 +65,12 @@ function goToAuthor(name) {
   showBooks();
 }
 
+function goToTitle(title) {
+	$('#title_filter').val(title);
+	// $('#author_filter').change();
+	// showBooks();
+}
+
 function minimizeUI() {
   console.log('minimizeUI');
   $('#hide-precontent').val('true');
@@ -93,7 +99,7 @@ function loadScript(url, nodeId, callback) {
   var script = document.createElement('script');
   script.setAttribute('type', 'text/javascript');
   script.setAttribute('id', nodeId);
-  script.setAttribute('src', '../-/' + url);
+  script.setAttribute('src', url);
 
   document.getElementsByTagName('head')[0].appendChild(script);
   if (script.readyState) {
@@ -493,10 +499,46 @@ function init() {
       minimizeUI();
       showBooks();
     }
-  });
+	});
   $('#author_filter').keypress(function(event) {
     if (event.which == 13) {
       $.persistValue('author_filter', $(this).val(), persist_options);
+      showBooks();
+    }
+	});
+	
+	  /* Title filter */
+  $('#title_filter').autocomplete({
+    source: function(request, response) {
+      loadScript(booksUrl, 'find_books', function() {
+        var results = [];
+        var pattern = new RegExp(request.term, 'i');
+        var count = json_data.length;
+        var i = 0;
+        while (i < count && results.length < 100) {
+          if (json_data[i][0].match(pattern)) {
+            results.push(json_data[i][0]);
+          }
+          i++;
+        }
+      response(results);
+      })
+    },
+    select: function(event, ui) {
+      minimizeUI();
+      showBooks();
+    }
+	});
+  $('#author_filter').keypress(function(event) {
+    if (event.which == 13) {
+      $.persistValue('author_filter', $(this).val(), persist_options);
+      showBooks();
+    }
+  });
+
+    $('#title_filter').keypress(function(event) {
+    if (event.which == 13) {
+      $.persistValue('title_filter', $(this).val(), persist_options);
       showBooks();
     }
   });
@@ -534,10 +576,14 @@ function init() {
   // enable clearable if persisted value
   if ($('#author_filter').val()) {
     $('#author_filter').addClass('x onX');
+    console.log('filled');
 	}
 	if ($('#title_filter').val()) {
-		$('#title_filter').addClass('x onX');
-	}
+    $('#title_filter').addClass('x onX');
+    console.log('filled')
+  }else{
+    console.log('not filled')
+  }
 }
 
 document.webL10n.ready(onLocalized);

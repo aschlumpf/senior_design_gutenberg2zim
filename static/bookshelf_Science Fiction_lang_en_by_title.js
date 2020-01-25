@@ -1,1 +1,1 @@
-var json_data = [];
+var json_data = [["At the Earth's Core", "Edgar Rice Burroughs", "110", 123, "Science Fiction"], ["The Gods of Mars", "Edgar Rice Burroughs", "110", 64, "Science Fiction"], ["The Monster Men", "Edgar Rice Burroughs", "110", 96, "Science Fiction"], ["The Time Machine", "H. G. (Herbert George) Wells", "110", 35, "Science Fiction"], ["Thuvia, Maid of Mars", "Edgar Rice Burroughs", "110", 72, "Science Fiction"], ["Warlord of Mars", "Edgar Rice Burroughs", "110", 68, "Science Fiction"]];

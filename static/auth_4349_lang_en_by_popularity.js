@@ -1,1 +1,0 @@
-var json_data = [["The Art of War", "active 6th century B.C. Sunzi", "110", 132, null]];

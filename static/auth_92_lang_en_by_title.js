@@ -1,1 +1,0 @@
-var json_data = [["The Autobiography of Benjamin Franklin", "Benjamin Franklin", "110", 148, "Harvard Classics"]];

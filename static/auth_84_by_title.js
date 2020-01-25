@@ -1,1 +1,0 @@
-var json_data = [["Maria; Or, The Wrongs of Woman", "Mary Wollstonecraft", "110", 134, null]];

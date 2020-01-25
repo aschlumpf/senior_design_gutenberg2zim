@@ -835,7 +835,7 @@ def export_to_json_helpers(books, static_folder, languages,
             dumpjs(
                 [book.to_array()
                  for book in Book.select().where(Book.language == lang)
-                                  .where(bookshelf == author)
+                                  .where(bookshelf == Book.bookshelf)
                                   .order_by(Book.title.asc())],
                 'bookshelf_{}_lang_{}_by_title.js'.format(bookshelf, lang))
         # TODO create the bookshelf html

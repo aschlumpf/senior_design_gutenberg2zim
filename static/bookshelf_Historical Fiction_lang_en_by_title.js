@@ -1,1 +1,1 @@
-var json_data = [];
+var json_data = [["A Tale of Two Cities", "Charles Dickens", "110", 98, "Historical Fiction"], ["Ivanhoe: A Romance", "Walter Scott", "110", 82, "Historical Fiction"], ["The Number \"e\"", "Unknown", "110", 63, "Historical Fiction"]];

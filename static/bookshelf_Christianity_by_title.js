@@ -1,1 +1,1 @@
-var json_data = [["Deuterocanonical Books of the Bible", "Anonymous", "110", 124, "Christianity"], ["Orthodoxy", "G. K. (Gilbert Keith) Chesterton", "110", 130, "Christianity"]];
+var json_data = [["Deuterocanonical Books of the Bible", "Anonymous", "110", 124, "Christianity"]];

@@ -1,1 +1,1 @@
-var json_data = [["The Damnation of Theron Ware", "Harold Frederic", "110", 133, "Bestsellers, American, 1895-1923"], ["The Jungle", "Upton Sinclair", "110", 140, "Bestsellers, American, 1895-1923"]];
+var json_data = [["The Red Badge of Courage: An Episode of the American Civil War", "Stephen Crane", "110", 73, "Bestsellers, American, 1895-1923"]];

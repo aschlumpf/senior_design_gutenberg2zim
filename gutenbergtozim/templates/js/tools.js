@@ -67,8 +67,8 @@ function goToAuthor(name) {
 
 function goToTitle(title) {
 	$('#title_filter').val(title);
-	$('#author_filter').change();
-	showBooks();
+	// $('#author_filter').change();
+	// showBooks();
 }
 
 function minimizeUI() {
@@ -217,7 +217,6 @@ function showBooks() {
     }
 
     console.log('before loadScript');
-
     loadScript(booksUrl, 'books_script', function() {
       if ($('#books_table').attr('filled')) {
         booksTable.fnDestroy();
@@ -510,17 +509,19 @@ function init() {
 	  /* Title filter */
   $('#title_filter').autocomplete({
     source: function(request, response) {
-      var results = [];
-      var pattern = new RegExp(request.term, 'i');
-      var count = authors_json_data.length;
-      var i = 0;
-      while (i < count && results.length < 100) {
-        if (authors_json_data[i][0].match(pattern)) {
-          results.push(authors_json_data[i][0]);
+      loadScript(booksUrl, 'find_books', function() {
+        var results = [];
+        var pattern = new RegExp(request.term, 'i');
+        var count = json_data.length;
+        var i = 0;
+        while (i < count && results.length < 100) {
+          if (json_data[i][0].match(pattern)) {
+            results.push(json_data[i][0]);
+          }
+          i++;
         }
-        i++;
-      }
       response(results);
+      })
     },
     select: function(event, ui) {
       minimizeUI();
@@ -530,6 +531,13 @@ function init() {
   $('#author_filter').keypress(function(event) {
     if (event.which == 13) {
       $.persistValue('author_filter', $(this).val(), persist_options);
+      showBooks();
+    }
+  });
+
+    $('#title_filter').keypress(function(event) {
+    if (event.which == 13) {
+      $.persistValue('_filter', $(this).val(), persist_options);
       showBooks();
     }
   });
@@ -567,10 +575,14 @@ function init() {
   // enable clearable if persisted value
   if ($('#author_filter').val()) {
     $('#author_filter').addClass('x onX');
+    console.log('filled');
 	}
 	if ($('#title_filter').val()) {
-		$('#title_filter').addClass('x onX');
-	}
+    $('#title_filter').addClass('x onX');
+    console.log('filled')
+  }else{
+    console.log('not filled')
+  }
 }
 
 document.webL10n.ready(onLocalized);

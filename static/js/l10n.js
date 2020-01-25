@@ -92,7 +92,7 @@ document.webL10n = (function(window, document, undefined) {
    *   gDEBUG == 2: display all console messages
    */
 
-  var gDEBUG = 0;
+  var gDEBUG = 2;
 
   function consoleLog(message) {
     if (gDEBUG >= 2) {
