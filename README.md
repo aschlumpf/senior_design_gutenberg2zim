@@ -42,13 +42,14 @@ virtualenv gut-env (or any name you want)
 
 ### Working in the environment
 
-* Activate the environment:  `source gut-env/bin/activate`
-* Quit the environment: `deactivate`
+- Activate the environment: `source gut-env/bin/activate`
+- Quit the environment: `deactivate`
 
 ## Getting started
 
 After setting up the whole environment you can just run the main script `gutenberg2zim`.
 It will download, process and export the content.
+
 ```bash
 ./gutenberg2zim
 ```
@@ -58,6 +59,7 @@ It will download, process and export the content.
 You can also specify parameters to customize the content.
 Only want books with the Id 100-200? Books only in French? English? Or only those both? No problem!
 You can also include or exclude book formats.
+
 ```bash
 ./gutenberg2zim -l en,fr -f pdf --books 100-200
 ```
@@ -65,6 +67,7 @@ You can also include or exclude book formats.
 This will download English and French books that have the Id 100 to 200 in the html (default) and pdf format.
 
 You can find the full arguments list below.
+
 ```bash
 -h --help                       Display this help message
 -y --wipe-db                    Do not wipe the DB during parse stage
@@ -101,6 +104,29 @@ You can find the full arguments list below.
 --dev                           Exports *just* Home+JS+CSS files (overwritten by --zim step)
 --zim                           Create a ZIM file
 ```
+
+## Helpful commands for development
+
+After inital setup, run
+
+```bash
+./gutenberg2zim --prepare
+```
+
+to download the RDF files.
+Books can be downloaded by a command such as
+
+```bash
+./gutenberg2zim --download -l en -f pdf --books 100-200
+```
+
+To build the static HTML/CSS/JS, run
+
+```bash
+./gutenberg2zim --dev
+```
+
+The static folder will be built from the `gutenberg2zim` folder's FE files.
 
 ## Screenshots
 
