@@ -32,7 +32,7 @@ With some changes to keep the language in a cookie with jQuery.cookie:
 
 function getLanguageFromBrowser() {
 	var default_lang = 'en';
-	var available_languages = ['en',];
+	var available_languages = ['en','fr','de','it','ar','nl','es',];
 	// single language
 	if (available_languages.length == 1)
 		return available_languages[0];

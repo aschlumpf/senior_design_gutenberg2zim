@@ -2,6 +2,7 @@ var sortMethod = 'popularity';
 var booksUrl = 'full_by_popularity.js';
 var inBooksLooadingLoop = false;
 var booksTable = null;
+var title_dict = null;
 var persist_options = {
   context: 'gutenberg', // a context or namespace for each field
   cookie: 'gutenberg__all_2020-01', // cookies basename
@@ -217,7 +218,6 @@ function showBooks() {
     }
 
     console.log('before loadScript');
-
     loadScript(booksUrl, 'books_script', function() {
       if ($('#books_table').attr('filled')) {
         booksTable.fnDestroy();
@@ -505,7 +505,8 @@ function init() {
       $.persistValue('author_filter', $(this).val(), persist_options);
       showBooks();
     }
-	});
+  });
+  
 	
 	  /* Title filter */
   $('#title_filter').autocomplete({
@@ -515,9 +516,11 @@ function init() {
         var pattern = new RegExp(request.term, 'i');
         var count = json_data.length;
         var i = 0;
+        title_dict = {}
         while (i < count && results.length < 100) {
           if (json_data[i][0].match(pattern)) {
             results.push(json_data[i][0]);
+            title_dict[json_data[i][0]] = json_data[i][3];
           }
           i++;
         }
@@ -525,8 +528,12 @@ function init() {
       })
     },
     select: function(event, ui) {
-      minimizeUI();
-      showBooks();
+      // minimizeUI();
+      let url = './'+encodeURIComponent(ui.item.value)+'_cover.'+title_dict[ui.item.value]+'.html';
+      $(location).attr('href',url);
+      // showBooks();
+
+     
     }
 	});
   $('#author_filter').keypress(function(event) {
@@ -538,8 +545,14 @@ function init() {
 
     $('#title_filter').keypress(function(event) {
     if (event.which == 13) {
-      $.persistValue('title_filter', $(this).val(), persist_options);
-      showBooks();
+      // $.persistValue('_filter', $(this).val(), persist_options);
+      // showBooks();
+      if($(this).val().length===0 || title_dict===null || title_dict[$(this).val()]===undefined){
+        return;
+      }
+     
+      let url = './'+encodeURIComponent($(this).val())+'_cover.'+title_dict[$(this).val()]+'.html';
+      $(location).attr('href',url);
     }
   });
 
